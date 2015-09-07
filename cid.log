@@ -1,0 +1,2885 @@
+[0] Welcome to SD, constrained=0 ICM_tol=0.000100
+[0] linesearch[1] 1303.870301 bestSpeed 1
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.321591, 0.324957, 0.315213, 0.628196, 0.649207, 0.622834), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[2] 1098.168902 bestSpeed 1
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.906732, 0.892533, 0.889432, 0.668080, 0.687947, 0.674302), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[3] 977.286196 bestSpeed 0.7
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.764579, 0.787188, 0.741064, 0.270458, 0.316563, 0.299266), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[4] 949.929230 bestSpeed 0.26411
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.803846, 0.775711, 0.760956, 0.436523, 0.425685, 0.467193), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[5] 939.478944 bestSpeed 0.142355
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775459, 0.806942, 0.750421, 0.337631, 0.374716, 0.389763), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[6] 938.341771 bestSpeed 0.0537107
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.805565, 0.788719, 0.756041, 0.371575, 0.382283, 0.409897), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[7] 937.869422 bestSpeed 0.02895
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.792319, 0.802347, 0.759003, 0.350976, 0.385849, 0.404318), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[8] 937.799148 bestSpeed 0.0156041
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.804208, 0.795444, 0.758596, 0.357911, 0.383452, 0.404997), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[9] 937.777898 bestSpeed 0.0120151
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.797974, 0.801332, 0.760802, 0.350523, 0.386821, 0.405155), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[10] 937.753614 bestSpeed 0.00925165
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.804570, 0.797288, 0.759751, 0.355123, 0.384967, 0.404950), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[11] 937.748644 bestSpeed 0.00712377
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.800348, 0.800551, 0.761163, 0.350975, 0.386695, 0.405261), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[12] 937.738852 bestSpeed 0.00548531
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.804113, 0.798230, 0.760266, 0.353880, 0.385591, 0.405002), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[13] 937.738311 bestSpeed 0.00422369
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.801468, 0.800060, 0.761149, 0.351465, 0.386501, 0.405246), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[14] 937.733990 bestSpeed 0.00325224
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.803656, 0.798717, 0.760525, 0.353243, 0.385867, 0.405052), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[15] 937.732374 bestSpeed 0.00175296
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802529, 0.799448, 0.760905, 0.352248, 0.386216, 0.405167), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[16] 937.732102 bestSpeed 0.000944843
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.803172, 0.799070, 0.760713, 0.352763, 0.386041, 0.405102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[17] 937.732074 bestSpeed 0.000727529
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802705, 0.799370, 0.760878, 0.352349, 0.386183, 0.405156), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[18] 937.731955 bestSpeed 0.000560198
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.803080, 0.799146, 0.760758, 0.352659, 0.386079, 0.405115), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[19] 937.731902 bestSpeed 0.000301947
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802884, 0.799269, 0.760827, 0.352489, 0.386136, 0.405138), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[20] 937.731897 bestSpeed 0.000162749
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802994, 0.799205, 0.760792, 0.352579, 0.386107, 0.405126), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[21] 937.731894 bestSpeed 0.000125317
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802912, 0.799255, 0.760821, 0.352508, 0.386130, 0.405135), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[22] 937.731892 bestSpeed 9.6494e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802977, 0.799217, 0.760800, 0.352562, 0.386113, 0.405128), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[23] 937.731891 bestSpeed 7.43004e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802928, 0.799247, 0.760817, 0.352520, 0.386127, 0.405133), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[24] 937.731890 bestSpeed 5.72113e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802966, 0.799224, 0.760804, 0.352552, 0.386116, 0.405129), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[25] 937.731890 bestSpeed 4.40527e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802937, 0.799242, 0.760814, 0.352527, 0.386124, 0.405132), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[26] 937.731890 bestSpeed 3.39206e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802959, 0.799228, 0.760806, 0.352546, 0.386118, 0.405130), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[27] 937.731890 bestSpeed 2.61188e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802942, 0.799239, 0.760812, 0.352531, 0.386123, 0.405132), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[28] 937.731889 bestSpeed 2.01115e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802955, 0.799231, 0.760808, 0.352543, 0.386119, 0.405130), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[29] 937.731889 bestSpeed 1.54859e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802945, 0.799237, 0.760811, 0.352534, 0.386122, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[30] 937.731889 bestSpeed 1.19241e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802953, 0.799232, 0.760809, 0.352541, 0.386120, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[31] 937.731889 bestSpeed 6.4271e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802949, 0.799235, 0.760810, 0.352537, 0.386121, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[32] 937.731889 bestSpeed 3.46421e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802951, 0.799233, 0.760809, 0.352539, 0.386120, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[33] 937.731889 bestSpeed 2.66744e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802949, 0.799234, 0.760810, 0.352537, 0.386121, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[34] 937.731889 bestSpeed 2.05393e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802951, 0.799234, 0.760809, 0.352539, 0.386120, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[35] 937.731889 bestSpeed 1.58152e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802950, 0.799234, 0.760810, 0.352538, 0.386121, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[36] 937.731889 bestSpeed 1.21777e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802950, 0.799234, 0.760809, 0.352538, 0.386121, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[37] 937.731889 bestSpeed 6.5638e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802950, 0.799234, 0.760810, 0.352538, 0.386121, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] After 38 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 0
+[0] MxComputeGradientDescent: final fit is 937.731889
+est 6: c(0.80295, 0.79923, 0.76081, 0.35254, 0.38612, 0.40513)
+> 
+> tmp = mxRun(mxModel(m1, mxCI(c("x1_resid","S[1,1]"))), intervals = T)
+Running m1
+[0] Welcome to SD, constrained=0 ICM_tol=0.000100
+[0] After 1 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 0
+[0] MxComputeGradientDescent: final fit is 937.731889
+est 6: c(0.80295, 0.79923, 0.76081, 0.35254, 0.38612, 0.40513)
+[0] Welcome to SD, constrained=1 ICM_tol=0.000100
+[0] prev_ICM=inf, solve subproblem with rho=0.000100
+[0] linesearch[1] -0.459340 bestSpeed 0.49
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802950, 0.799234, 0.760810, 0.842538, 0.386121, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[2] -0.554265 bestSpeed 0.26411
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.660392, 0.857263, 0.813456, 0.649557, 0.326063, 0.355697), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[3] -0.579306 bestSpeed 0.142355
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.751452, 0.810009, 0.760993, 0.683165, 0.374595, 0.414882), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[4] -0.582382 bestSpeed 0.0767295
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.715141, 0.825717, 0.773552, 0.674026, 0.330119, 0.369026), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[5] -0.583178 bestSpeed 0.0590817
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721999, 0.825679, 0.772726, 0.687064, 0.367107, 0.412670), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[6] -0.585484 bestSpeed 0.0454929
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.726168, 0.818448, 0.765986, 0.684318, 0.335878, 0.381498), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[7] -0.586810 bestSpeed 0.0245207
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.720856, 0.826092, 0.768963, 0.685306, 0.352064, 0.397080), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[8] -0.586924 bestSpeed 0.0132166
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.723315, 0.820985, 0.769015, 0.687509, 0.341971, 0.391094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[9] -0.586997 bestSpeed 0.0101768
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721154, 0.826675, 0.767170, 0.687256, 0.349038, 0.394713), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[10] -0.587046 bestSpeed 0.00783615
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.722323, 0.822105, 0.769454, 0.687585, 0.343272, 0.393955), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[11] -0.587076 bestSpeed 0.00603384
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721569, 0.826092, 0.766749, 0.687511, 0.346824, 0.393948), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[12] -0.587095 bestSpeed 0.00464605
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721968, 0.823238, 0.768863, 0.687622, 0.343977, 0.394780), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[13] -0.587106 bestSpeed 0.00357746
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721680, 0.825615, 0.766932, 0.687605, 0.345714, 0.394215), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[14] -0.587113 bestSpeed 0.00275465
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721853, 0.823951, 0.768289, 0.687652, 0.344166, 0.394958), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[15] -0.587117 bestSpeed 0.00212108
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721708, 0.825359, 0.767095, 0.687645, 0.345116, 0.394550), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[16] -0.587120 bestSpeed 0.00163323
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721801, 0.824385, 0.767907, 0.687668, 0.344213, 0.395035), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[17] -0.587121 bestSpeed 0.00125759
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721719, 0.825225, 0.767188, 0.687663, 0.344756, 0.394791), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[18] -0.587122 bestSpeed 0.000968342
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721774, 0.824653, 0.767667, 0.687676, 0.344218, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[19] -0.587122 bestSpeed 0.000745623
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721725, 0.825155, 0.767237, 0.687673, 0.344531, 0.394951), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[20] -0.587123 bestSpeed 0.00057413
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721758, 0.824819, 0.767518, 0.687681, 0.344208, 0.395131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[21] -0.587123 bestSpeed 0.00044208
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721729, 0.825119, 0.767260, 0.687679, 0.344387, 0.395055), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[22] -0.587123 bestSpeed 0.000340402
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721748, 0.824922, 0.767425, 0.687683, 0.344193, 0.395164), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[23] -0.587123 bestSpeed 0.000262109
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721731, 0.825103, 0.767271, 0.687682, 0.344295, 0.395123), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[24] -0.587123 bestSpeed 0.000201824
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721742, 0.824987, 0.767367, 0.687685, 0.344178, 0.395188), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[25] -0.587123 bestSpeed 0.000108783
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721735, 0.825063, 0.767302, 0.687685, 0.344218, 0.395174), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[26] -0.587123 bestSpeed 5.86341e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721738, 0.825035, 0.767324, 0.687686, 0.344178, 0.395199), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[27] -0.587123 bestSpeed 4.51483e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721735, 0.825069, 0.767295, 0.687686, 0.344185, 0.395201), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[28] -0.587123 bestSpeed 4.96631e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721737, 0.825048, 0.767312, 0.687687, 0.344150, 0.395223), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[29] -0.587123 bestSpeed 5.46294e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825086, 0.767279, 0.687687, 0.344168, 0.395217), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[30] -0.587123 bestSpeed 4.20647e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721736, 0.825063, 0.767298, 0.687688, 0.344143, 0.395232), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[31] -0.587123 bestSpeed 2.26728e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825080, 0.767284, 0.687688, 0.344150, 0.395230), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[32] -0.587123 bestSpeed 1.74581e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721735, 0.825073, 0.767289, 0.687688, 0.344137, 0.395239), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[33] -0.587123 bestSpeed 1.92039e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825087, 0.767277, 0.687688, 0.344142, 0.395238), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[34] -0.587123 bestSpeed 2.11243e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721735, 0.825076, 0.767286, 0.687688, 0.344129, 0.395246), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[35] -0.587123 bestSpeed 1.62657e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825087, 0.767277, 0.687688, 0.344135, 0.395243), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[36] -0.587123 bestSpeed 8.76722e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825083, 0.767280, 0.687688, 0.344129, 0.395247), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[37] -0.587123 bestSpeed 6.75076e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825088, 0.767276, 0.687688, 0.344131, 0.395247), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[38] -0.587123 bestSpeed 5.19808e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825085, 0.767278, 0.687689, 0.344127, 0.395249), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[39] -0.587123 bestSpeed 4.00252e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825088, 0.767275, 0.687689, 0.344128, 0.395249), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[40] -0.587123 bestSpeed 3.08194e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825087, 0.767276, 0.687689, 0.344126, 0.395250), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[41] -0.587123 bestSpeed 2.3731e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825088, 0.767275, 0.687689, 0.344126, 0.395250), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[42] -0.587123 bestSpeed 2.61041e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825087, 0.767276, 0.687689, 0.344124, 0.395251), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[43] -0.587123 bestSpeed 2.87145e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825089, 0.767274, 0.687689, 0.344125, 0.395251), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[44] -0.587123 bestSpeed 2.21101e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825088, 0.767275, 0.687689, 0.344124, 0.395252), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[45] -0.587123 bestSpeed 1.70248e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825089, 0.767274, 0.687689, 0.344124, 0.395252), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[46] -0.587123 bestSpeed 1.31091e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825089, 0.767275, 0.687689, 0.344124, 0.395252), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[47] -0.587123 bestSpeed 7.0658e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825089, 0.767274, 0.687689, 0.344124, 0.395252), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[48] -0.587123 bestSpeed 5.44067e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825089, 0.767274, 0.687689, 0.344123, 0.395253), byrow=TRUE, nrow=1, ncol=6))
+[0] After 49 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 0
+[0] prev_ICM=44.847629, solve subproblem with rho=0.001000
+[0] linesearch[1] -0.298476 bestSpeed 0.343
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825090, 0.767273, 0.344689, 0.344124, 0.395253), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[2] -0.352268 bestSpeed 0.184877
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.824880, 0.786799, 0.740130, 0.487516, 0.372625, 0.406449), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[3] -0.380466 bestSpeed 0.142355
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.735064, 0.834893, 0.785555, 0.399232, 0.374834, 0.401709), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[4] -0.415654 bestSpeed 0.109614
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.793887, 0.802279, 0.762752, 0.481013, 0.361536, 0.391400), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[5] -0.423700 bestSpeed 0.0590817
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.758659, 0.822524, 0.774446, 0.441359, 0.371787, 0.396447), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[6] -0.426702 bestSpeed 0.0454929
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774472, 0.809528, 0.768964, 0.480486, 0.363265, 0.392320), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[7] -0.428314 bestSpeed 0.0350295
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.760202, 0.817955, 0.771429, 0.449898, 0.366511, 0.392715), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[8] -0.429968 bestSpeed 0.0269728
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.769507, 0.810921, 0.768820, 0.473942, 0.363961, 0.392888), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[9] -0.430143 bestSpeed 0.020769
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.762189, 0.815430, 0.769983, 0.455123, 0.365344, 0.392659), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[10] -0.430985 bestSpeed 0.0159921
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.767517, 0.811633, 0.768612, 0.469609, 0.364309, 0.393059), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[11] -0.431282 bestSpeed 0.00861977
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.764618, 0.813430, 0.769155, 0.461725, 0.364758, 0.392895), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[12] -0.431356 bestSpeed 0.00464605
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.766175, 0.812317, 0.768700, 0.465924, 0.364503, 0.393042), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[13] -0.431382 bestSpeed 0.00250422
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765314, 0.812838, 0.768852, 0.463640, 0.364641, 0.393006), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[14] -0.431387 bestSpeed 0.00134978
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765751, 0.812513, 0.768712, 0.464865, 0.364566, 0.393049), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[15] -0.431390 bestSpeed 0.000727529
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765495, 0.812664, 0.768754, 0.464203, 0.364604, 0.393039), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[16] -0.431390 bestSpeed 0.000392138
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765616, 0.812567, 0.768709, 0.464559, 0.364581, 0.393053), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[17] -0.431390 bestSpeed 0.000301947
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765508, 0.812629, 0.768726, 0.464285, 0.364596, 0.393049), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[18] -0.431390 bestSpeed 0.000232499
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765582, 0.812575, 0.768702, 0.464497, 0.364582, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[19] -0.431390 bestSpeed 0.000179024
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765520, 0.812613, 0.768714, 0.464334, 0.364592, 0.393053), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[20] -0.431390 bestSpeed 0.000137849
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765565, 0.812581, 0.768701, 0.464460, 0.364584, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[21] -0.431390 bestSpeed 0.000106143
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765528, 0.812605, 0.768709, 0.464363, 0.364589, 0.393054), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[22] -0.431390 bestSpeed 8.17304e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765555, 0.812586, 0.768702, 0.464438, 0.364585, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[23] -0.431390 bestSpeed 6.29324e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765534, 0.812600, 0.768707, 0.464380, 0.364588, 0.393055), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[24] -0.431390 bestSpeed 4.8458e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765550, 0.812589, 0.768702, 0.464424, 0.364585, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[25] -0.431391 bestSpeed 3.73126e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765538, 0.812597, 0.768705, 0.464391, 0.364587, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[26] -0.431391 bestSpeed 2.01115e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765544, 0.812593, 0.768704, 0.464409, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[27] -0.431391 bestSpeed 1.08401e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765541, 0.812595, 0.768705, 0.464399, 0.364587, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[28] -0.431391 bestSpeed 8.34688e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765543, 0.812593, 0.768704, 0.464407, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[29] -0.431391 bestSpeed 6.4271e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765541, 0.812595, 0.768704, 0.464401, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[30] -0.431391 bestSpeed 4.94886e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765543, 0.812594, 0.768704, 0.464405, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[31] -0.431391 bestSpeed 3.81063e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.464402, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[32] -0.431391 bestSpeed 2.05393e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.464404, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[33] -0.431391 bestSpeed 1.10707e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.464403, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[34] -0.431391 bestSpeed 8.52441e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.464403, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[35] -0.431391 bestSpeed 6.5638e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.464403, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[36] -0.431391 bestSpeed 5.05413e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.464403, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[37] -0.431391 bestSpeed 3.89168e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.464403, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] After 38 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 0
+[0] prev_ICM=3.640804, solve subproblem with rho=0.010000
+[0] linesearch[1] -0.378747 bestSpeed 0.0823543
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.382049, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[2] -0.418882 bestSpeed 0.0634128
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.445461, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[3] -0.425644 bestSpeed 0.016748
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.767875, 0.811701, 0.767954, 0.428946, 0.365375, 0.393599), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[4] -0.426253 bestSpeed 0.00902715
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.767875, 0.811701, 0.767954, 0.437973, 0.365375, 0.393599), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[5] -0.427344 bestSpeed 0.0069509
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.769591, 0.811094, 0.767479, 0.431339, 0.366118, 0.394070), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[6] -0.427602 bestSpeed 0.00374654
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.770875, 0.810647, 0.767150, 0.434746, 0.366705, 0.394427), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[7] -0.427682 bestSpeed 0.00288483
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.771938, 0.810321, 0.766971, 0.432181, 0.367314, 0.394750), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[8] -0.427757 bestSpeed 0.00222132
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.772588, 0.810119, 0.766875, 0.434254, 0.367679, 0.394928), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[9] -0.427779 bestSpeed 0.00171042
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.773027, 0.810013, 0.766890, 0.432641, 0.368002, 0.395044), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[10] -0.427805 bestSpeed 0.00131702
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.773379, 0.809915, 0.766881, 0.433884, 0.368222, 0.395118), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[11] -0.427811 bestSpeed 0.00101411
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.773599, 0.809875, 0.766941, 0.432915, 0.368409, 0.395146), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[12] -0.427821 bestSpeed 0.000780862
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.773797, 0.809826, 0.766964, 0.433656, 0.368543, 0.395168), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[13] -0.427823 bestSpeed 0.000601264
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.773919, 0.809812, 0.767029, 0.433082, 0.368658, 0.395160), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[14] -0.427826 bestSpeed 0.000462973
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774035, 0.809788, 0.767062, 0.433521, 0.368741, 0.395157), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[15] -0.427827 bestSpeed 0.000356489
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774107, 0.809784, 0.767120, 0.433186, 0.368815, 0.395136), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[16] -0.427829 bestSpeed 0.000274497
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774177, 0.809772, 0.767152, 0.433443, 0.368869, 0.395124), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[17] -0.427829 bestSpeed 0.000211363
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774222, 0.809771, 0.767201, 0.433250, 0.368917, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[18] -0.427829 bestSpeed 0.000232499
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774284, 0.809763, 0.767241, 0.433463, 0.368969, 0.395078), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[19] -0.427829 bestSpeed 0.000255749
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774303, 0.809768, 0.767283, 0.433214, 0.368998, 0.395053), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[20] -0.427830 bestSpeed 0.000196927
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774335, 0.809763, 0.767301, 0.433406, 0.369022, 0.395042), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[21] -0.427830 bestSpeed 0.000151633
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774350, 0.809766, 0.767335, 0.433262, 0.369045, 0.395020), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[22] -0.427830 bestSpeed 0.000166797
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774379, 0.809763, 0.767356, 0.433423, 0.369068, 0.395006), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[23] -0.427830 bestSpeed 0.000128433
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774382, 0.809766, 0.767374, 0.433297, 0.369077, 0.394994), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[24] -0.427830 bestSpeed 6.92257e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774396, 0.809765, 0.767387, 0.433362, 0.369089, 0.394985), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[25] -0.427830 bestSpeed 5.33038e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774403, 0.809766, 0.767404, 0.433315, 0.369101, 0.394973), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[26] -0.427830 bestSpeed 5.86341e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774417, 0.809765, 0.767419, 0.433367, 0.369113, 0.394963), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[27] -0.427830 bestSpeed 6.44975e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774421, 0.809767, 0.767433, 0.433305, 0.369121, 0.394953), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[28] -0.427830 bestSpeed 4.96631e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774428, 0.809766, 0.767440, 0.433353, 0.369127, 0.394948), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[29] -0.427830 bestSpeed 3.82406e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774432, 0.809767, 0.767450, 0.433318, 0.369134, 0.394940), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[30] -0.427830 bestSpeed 4.20647e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774439, 0.809767, 0.767458, 0.433358, 0.369140, 0.394935), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[31] -0.427830 bestSpeed 3.23898e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774440, 0.809768, 0.767463, 0.433326, 0.369143, 0.394931), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[32] -0.427830 bestSpeed 2.49401e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774445, 0.809767, 0.767469, 0.433349, 0.369148, 0.394926), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[33] -0.427830 bestSpeed 2.74341e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774447, 0.809768, 0.767475, 0.433323, 0.369151, 0.394922), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[34] -0.427830 bestSpeed 2.11243e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774450, 0.809767, 0.767478, 0.433343, 0.369154, 0.394920), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[35] -0.427830 bestSpeed 1.62657e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774451, 0.809768, 0.767482, 0.433328, 0.369156, 0.394917), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[36] -0.427830 bestSpeed 1.78923e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774454, 0.809768, 0.767485, 0.433345, 0.369159, 0.394914), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[37] -0.427830 bestSpeed 1.37771e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774454, 0.809768, 0.767487, 0.433332, 0.369160, 0.394913), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[38] -0.427830 bestSpeed 1.06083e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774456, 0.809768, 0.767490, 0.433341, 0.369162, 0.394911), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[39] -0.427830 bestSpeed 1.16692e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774457, 0.809768, 0.767492, 0.433330, 0.369163, 0.394909), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[40] -0.427830 bestSpeed 8.98526e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774458, 0.809768, 0.767493, 0.433339, 0.369165, 0.394908), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[41] -0.427830 bestSpeed 6.91865e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774458, 0.809768, 0.767495, 0.433333, 0.369166, 0.394907), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[42] -0.427830 bestSpeed 7.61051e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774459, 0.809768, 0.767496, 0.433340, 0.369167, 0.394906), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[43] -0.427830 bestSpeed 5.86009e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774459, 0.809768, 0.767497, 0.433334, 0.369167, 0.394905), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[44] -0.427830 bestSpeed 4.51227e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774460, 0.809768, 0.767498, 0.433338, 0.369168, 0.394904), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[45] -0.427830 bestSpeed 4.9635e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774460, 0.809768, 0.767499, 0.433334, 0.369169, 0.394904), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[46] -0.427830 bestSpeed 3.82189e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774461, 0.809768, 0.767499, 0.433337, 0.369169, 0.394903), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[47] -0.427830 bestSpeed 2.94286e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774461, 0.809768, 0.767500, 0.433334, 0.369169, 0.394903), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[48] -0.427830 bestSpeed 3.23714e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774462, 0.809768, 0.767501, 0.433338, 0.369170, 0.394902), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[49] -0.427830 bestSpeed 2.4926e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774462, 0.809768, 0.767501, 0.433335, 0.369170, 0.394902), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[50] -0.427830 bestSpeed 1.9193e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774462, 0.809768, 0.767501, 0.433337, 0.369170, 0.394902), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[51] -0.427830 bestSpeed 2.11123e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774462, 0.809768, 0.767502, 0.433335, 0.369171, 0.394902), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[52] -0.427830 bestSpeed 1.62565e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774462, 0.809768, 0.767502, 0.433336, 0.369171, 0.394901), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[53] -0.427830 bestSpeed 1.25175e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774462, 0.809768, 0.767502, 0.433335, 0.369171, 0.394901), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[54] -0.427830 bestSpeed 1.37693e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.433337, 0.369171, 0.394901), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[55] -0.427830 bestSpeed 1.06023e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.433336, 0.369171, 0.394901), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[56] -0.427830 bestSpeed 8.16379e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.433336, 0.369171, 0.394901), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[57] -0.427830 bestSpeed 8.98017e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.433335, 0.369172, 0.394901), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[58] -0.427830 bestSpeed 6.91473e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.433336, 0.369172, 0.394901), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[59] -0.427830 bestSpeed 5.32434e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.433336, 0.369172, 0.394900), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[60] -0.427830 bestSpeed 5.85678e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.433336, 0.369172, 0.394900), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[61] -0.427830 bestSpeed 4.50972e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.433336, 0.369172, 0.394900), byrow=TRUE, nrow=1, ncol=6))
+[0] After 62 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 0
+[0] prev_ICM=0.236765, solve subproblem with rho=0.100000
+[0] linesearch[1] -0.428038 bestSpeed 0.00474756
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.428588, 0.369172, 0.394900), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[2] -0.429403 bestSpeed 0.00365562
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.432244, 0.369172, 0.394900), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[3] -0.429723 bestSpeed 0.00197038
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774483, 0.809760, 0.767497, 0.430274, 0.369179, 0.394906), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[4] -0.429873 bestSpeed 0.00151719
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774483, 0.809760, 0.767497, 0.431791, 0.369179, 0.394906), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[5] -0.430072 bestSpeed 0.00116824
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774503, 0.809752, 0.767490, 0.430623, 0.369187, 0.394911), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[6] -0.430191 bestSpeed 0.000629681
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774503, 0.809752, 0.767490, 0.431252, 0.369187, 0.394911), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[7] -0.430218 bestSpeed 0.000484854
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774522, 0.809745, 0.767484, 0.430768, 0.369194, 0.394916), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[8] -0.430225 bestSpeed 0.000373338
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774522, 0.809745, 0.767484, 0.431142, 0.369194, 0.394916), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[9] -0.430263 bestSpeed 0.00028747
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774537, 0.809739, 0.767479, 0.430855, 0.369199, 0.394920), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[10] -0.430264 bestSpeed 0.000108462
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774622, 0.809707, 0.767452, 0.430819, 0.369232, 0.394943), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[11] -0.430264 bestSpeed 5.84612e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774624, 0.809706, 0.767451, 0.430877, 0.369232, 0.394944), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[12] -0.430264 bestSpeed 6.43074e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774648, 0.809697, 0.767443, 0.430820, 0.369243, 0.394951), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[13] -0.430265 bestSpeed 4.95167e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774650, 0.809696, 0.767443, 0.430870, 0.369243, 0.394952), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[14] -0.430265 bestSpeed 5.44683e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774675, 0.809687, 0.767435, 0.430825, 0.369254, 0.394959), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[15] -0.430265 bestSpeed 4.19406e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774684, 0.809683, 0.767432, 0.430865, 0.369258, 0.394962), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[16] -0.430265 bestSpeed 4.61347e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774709, 0.809674, 0.767425, 0.430830, 0.369268, 0.394969), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[17] -0.430266 bestSpeed 5.07482e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774730, 0.809667, 0.767419, 0.430873, 0.369278, 0.394975), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[18] -0.430266 bestSpeed 5.5823e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774750, 0.809659, 0.767413, 0.430823, 0.369287, 0.394981), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[19] -0.430266 bestSpeed 4.29837e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774753, 0.809658, 0.767412, 0.430866, 0.369288, 0.394982), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[20] -0.430266 bestSpeed 4.72821e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774774, 0.809651, 0.767406, 0.430827, 0.369298, 0.394989), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[21] -0.430266 bestSpeed 5.20103e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774792, 0.809644, 0.767401, 0.430874, 0.369306, 0.394994), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[22] -0.430266 bestSpeed 5.72113e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774810, 0.809638, 0.767397, 0.430822, 0.369314, 0.394999), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[23] -0.430267 bestSpeed 4.40527e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774811, 0.809638, 0.767396, 0.430866, 0.369315, 0.395000), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[24] -0.430267 bestSpeed 4.8458e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774831, 0.809630, 0.767391, 0.430824, 0.369325, 0.395006), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[25] -0.430267 bestSpeed 3.73126e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774833, 0.809630, 0.767390, 0.430862, 0.369326, 0.395007), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[26] -0.430267 bestSpeed 4.10439e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774853, 0.809623, 0.767385, 0.430829, 0.369336, 0.395013), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[27] -0.430267 bestSpeed 4.51483e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774867, 0.809618, 0.767382, 0.430871, 0.369343, 0.395017), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[28] -0.430267 bestSpeed 4.96631e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774882, 0.809613, 0.767378, 0.430825, 0.369350, 0.395022), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[29] -0.430267 bestSpeed 3.82406e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774883, 0.809612, 0.767378, 0.430863, 0.369351, 0.395022), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[30] -0.430267 bestSpeed 2.94453e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774895, 0.809608, 0.767375, 0.430838, 0.369357, 0.395026), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[31] -0.430268 bestSpeed 3.23898e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774909, 0.809604, 0.767372, 0.430865, 0.369364, 0.395031), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[32] -0.430268 bestSpeed 3.56288e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774921, 0.809599, 0.767369, 0.430833, 0.369371, 0.395034), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[33] -0.430268 bestSpeed 3.91916e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774933, 0.809596, 0.767366, 0.430869, 0.369377, 0.395038), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[34] -0.430268 bestSpeed 4.31108e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774944, 0.809592, 0.767364, 0.430828, 0.369383, 0.395042), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[35] -0.430268 bestSpeed 4.74219e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774955, 0.809588, 0.767362, 0.430874, 0.369389, 0.395045), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[36] -0.430268 bestSpeed 5.21641e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774965, 0.809585, 0.767360, 0.430823, 0.369395, 0.395048), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[37] -0.430268 bestSpeed 4.01663e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774965, 0.809585, 0.767360, 0.430864, 0.369395, 0.395049), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[38] -0.430268 bestSpeed 3.09281e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774975, 0.809582, 0.767358, 0.430835, 0.369400, 0.395052), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[39] -0.430268 bestSpeed 3.40209e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774984, 0.809579, 0.767356, 0.430867, 0.369406, 0.395055), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[40] -0.430268 bestSpeed 3.7423e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774993, 0.809576, 0.767354, 0.430831, 0.369411, 0.395057), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[41] -0.430268 bestSpeed 4.11653e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775002, 0.809573, 0.767353, 0.430871, 0.369416, 0.395060), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[42] -0.430268 bestSpeed 4.52818e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775010, 0.809570, 0.767352, 0.430827, 0.369421, 0.395063), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[43] -0.430268 bestSpeed 3.4867e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775011, 0.809570, 0.767351, 0.430861, 0.369421, 0.395063), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[44] -0.430268 bestSpeed 2.68476e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775019, 0.809568, 0.767350, 0.430836, 0.369426, 0.395065), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[45] -0.430268 bestSpeed 2.95323e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775026, 0.809565, 0.767349, 0.430864, 0.369430, 0.395068), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[46] -0.430268 bestSpeed 3.24856e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775034, 0.809563, 0.767348, 0.430833, 0.369435, 0.395070), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[47] -0.430268 bestSpeed 3.57341e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775040, 0.809561, 0.767347, 0.430868, 0.369439, 0.395072), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[48] -0.430268 bestSpeed 2.75153e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775045, 0.809560, 0.767347, 0.430841, 0.369442, 0.395073), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[49] -0.430268 bestSpeed 2.11868e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775052, 0.809557, 0.767346, 0.430860, 0.369446, 0.395075), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[50] -0.430268 bestSpeed 2.33054e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775058, 0.809556, 0.767345, 0.430838, 0.369450, 0.395077), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[51] -0.430268 bestSpeed 2.5636e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775064, 0.809554, 0.767344, 0.430863, 0.369454, 0.395079), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[52] -0.430268 bestSpeed 2.81996e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775069, 0.809552, 0.767344, 0.430835, 0.369457, 0.395081), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[53] -0.430269 bestSpeed 2.17137e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775073, 0.809551, 0.767344, 0.430856, 0.369460, 0.395082), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[54] -0.430269 bestSpeed 1.67195e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775079, 0.809550, 0.767343, 0.430841, 0.369463, 0.395083), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[55] -0.430269 bestSpeed 1.83915e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775084, 0.809548, 0.767343, 0.430858, 0.369466, 0.395085), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[56] -0.430269 bestSpeed 2.02306e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775088, 0.809547, 0.767342, 0.430839, 0.369470, 0.395086), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[57] -0.430269 bestSpeed 2.22537e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775093, 0.809545, 0.767342, 0.430861, 0.369473, 0.395087), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[58] -0.430269 bestSpeed 1.71353e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775096, 0.809544, 0.767342, 0.430844, 0.369475, 0.395088), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[59] -0.430269 bestSpeed 1.31942e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775101, 0.809543, 0.767342, 0.430856, 0.369478, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[60] -0.430269 bestSpeed 1.45136e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775105, 0.809542, 0.767342, 0.430842, 0.369481, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[61] -0.430269 bestSpeed 1.5965e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775109, 0.809541, 0.767342, 0.430857, 0.369483, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[62] -0.430269 bestSpeed 1.75615e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775113, 0.809540, 0.767342, 0.430840, 0.369486, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[63] -0.430269 bestSpeed 1.93177e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775117, 0.809539, 0.767342, 0.430859, 0.369489, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[64] -0.430269 bestSpeed 1.48746e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775119, 0.809538, 0.767342, 0.430845, 0.369490, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[65] -0.430269 bestSpeed 1.14534e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775123, 0.809537, 0.767342, 0.430855, 0.369493, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[66] -0.430269 bestSpeed 1.25988e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775126, 0.809536, 0.767342, 0.430843, 0.369495, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[67] -0.430269 bestSpeed 1.38587e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775129, 0.809535, 0.767342, 0.430856, 0.369497, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[68] -0.430269 bestSpeed 1.52445e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775132, 0.809535, 0.767342, 0.430841, 0.369500, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[69] -0.430269 bestSpeed 1.17383e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775134, 0.809534, 0.767342, 0.430853, 0.369501, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[70] -0.430269 bestSpeed 9.03848e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775137, 0.809533, 0.767342, 0.430845, 0.369503, 0.395098), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[71] -0.430269 bestSpeed 9.94233e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775140, 0.809533, 0.767342, 0.430854, 0.369505, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[72] -0.430269 bestSpeed 1.09366e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775143, 0.809532, 0.767343, 0.430843, 0.369507, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[73] -0.430269 bestSpeed 1.20302e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775145, 0.809531, 0.767343, 0.430855, 0.369509, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[74] -0.430269 bestSpeed 1.32332e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775148, 0.809531, 0.767343, 0.430842, 0.369511, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[75] -0.430269 bestSpeed 1.01896e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775149, 0.809530, 0.767343, 0.430852, 0.369512, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[76] -0.430269 bestSpeed 7.84599e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775152, 0.809530, 0.767344, 0.430845, 0.369514, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[77] -0.430269 bestSpeed 8.63058e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775154, 0.809529, 0.767344, 0.430853, 0.369516, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[78] -0.430269 bestSpeed 9.49364e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775156, 0.809529, 0.767344, 0.430844, 0.369517, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[79] -0.430269 bestSpeed 1.0443e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775158, 0.809528, 0.767344, 0.430854, 0.369519, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[80] -0.430269 bestSpeed 8.04112e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775159, 0.809528, 0.767345, 0.430846, 0.369520, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[81] -0.430269 bestSpeed 6.19166e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775161, 0.809527, 0.767345, 0.430852, 0.369521, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[82] -0.430269 bestSpeed 6.81082e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775163, 0.809527, 0.767345, 0.430846, 0.369523, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[83] -0.430269 bestSpeed 7.49191e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775165, 0.809527, 0.767346, 0.430853, 0.369524, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[84] -0.430269 bestSpeed 8.2411e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775167, 0.809526, 0.767346, 0.430845, 0.369526, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[85] -0.430269 bestSpeed 9.06521e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775169, 0.809526, 0.767346, 0.430853, 0.369527, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[86] -0.430269 bestSpeed 6.98021e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775170, 0.809526, 0.767347, 0.430847, 0.369528, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[87] -0.430269 bestSpeed 5.37476e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775171, 0.809525, 0.767347, 0.430852, 0.369529, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[88] -0.430269 bestSpeed 5.91224e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775173, 0.809525, 0.767347, 0.430846, 0.369530, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[89] -0.430269 bestSpeed 6.50346e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775174, 0.809525, 0.767348, 0.430852, 0.369532, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[90] -0.430269 bestSpeed 7.15381e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775176, 0.809524, 0.767348, 0.430845, 0.369533, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[91] -0.430269 bestSpeed 5.50843e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775177, 0.809524, 0.767349, 0.430851, 0.369533, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[92] -0.430269 bestSpeed 4.24149e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775178, 0.809524, 0.767349, 0.430847, 0.369535, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[93] -0.430269 bestSpeed 4.66564e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775179, 0.809523, 0.767349, 0.430851, 0.369536, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[94] -0.430269 bestSpeed 5.13221e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775180, 0.809523, 0.767350, 0.430846, 0.369537, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[95] -0.430269 bestSpeed 5.64543e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775182, 0.809523, 0.767350, 0.430852, 0.369538, 0.395104), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[96] -0.430269 bestSpeed 6.20997e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775183, 0.809523, 0.767351, 0.430846, 0.369539, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[97] -0.430269 bestSpeed 4.78168e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775183, 0.809523, 0.767351, 0.430850, 0.369539, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[98] -0.430269 bestSpeed 3.68189e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775185, 0.809522, 0.767351, 0.430847, 0.369540, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[99] -0.430269 bestSpeed 4.05008e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775186, 0.809522, 0.767352, 0.430851, 0.369541, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[100] -0.430269 bestSpeed 4.45509e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775187, 0.809522, 0.767352, 0.430846, 0.369542, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[101] -0.430269 bestSpeed 4.9006e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775188, 0.809522, 0.767352, 0.430851, 0.369543, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[102] -0.430269 bestSpeed 3.77346e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775188, 0.809522, 0.767353, 0.430847, 0.369543, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[103] -0.430269 bestSpeed 2.90556e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775189, 0.809522, 0.767353, 0.430850, 0.369544, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[104] -0.430269 bestSpeed 3.19612e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775190, 0.809521, 0.767354, 0.430847, 0.369545, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[105] -0.430269 bestSpeed 3.51573e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775191, 0.809521, 0.767354, 0.430850, 0.369546, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[106] -0.430269 bestSpeed 3.86731e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775192, 0.809521, 0.767354, 0.430847, 0.369546, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[107] -0.430269 bestSpeed 4.25404e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775193, 0.809521, 0.767355, 0.430851, 0.369547, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[108] -0.430269 bestSpeed 4.67944e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775193, 0.809521, 0.767355, 0.430846, 0.369548, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[109] -0.430269 bestSpeed 3.60317e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775194, 0.809521, 0.767355, 0.430850, 0.369548, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[110] -0.430269 bestSpeed 2.77444e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775195, 0.809521, 0.767356, 0.430847, 0.369549, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[111] -0.430269 bestSpeed 3.05188e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775195, 0.809521, 0.767356, 0.430850, 0.369549, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[112] -0.430269 bestSpeed 3.35707e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775196, 0.809520, 0.767357, 0.430847, 0.369550, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[113] -0.430269 bestSpeed 3.69278e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775197, 0.809520, 0.767357, 0.430850, 0.369551, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[114] -0.430269 bestSpeed 2.84344e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775197, 0.809520, 0.767357, 0.430848, 0.369551, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[115] -0.430269 bestSpeed 2.18945e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775198, 0.809520, 0.767358, 0.430850, 0.369552, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[116] -0.430269 bestSpeed 2.40839e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775198, 0.809520, 0.767358, 0.430847, 0.369552, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[117] -0.430269 bestSpeed 2.64923e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775199, 0.809520, 0.767358, 0.430850, 0.369553, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[118] -0.430269 bestSpeed 2.91416e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775200, 0.809520, 0.767359, 0.430847, 0.369553, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[119] -0.430269 bestSpeed 3.20557e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775200, 0.809520, 0.767359, 0.430850, 0.369554, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[120] -0.430269 bestSpeed 3.52613e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775201, 0.809520, 0.767359, 0.430847, 0.369554, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[121] -0.430269 bestSpeed 2.71512e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775201, 0.809520, 0.767360, 0.430849, 0.369555, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[122] -0.430269 bestSpeed 2.09064e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775202, 0.809520, 0.767360, 0.430848, 0.369555, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[123] -0.430269 bestSpeed 2.29971e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775202, 0.809520, 0.767360, 0.430850, 0.369556, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[124] -0.430269 bestSpeed 2.52968e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775203, 0.809520, 0.767361, 0.430847, 0.369556, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[125] -0.430269 bestSpeed 2.78264e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775203, 0.809519, 0.767361, 0.430850, 0.369556, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[126] -0.430269 bestSpeed 2.14264e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775203, 0.809519, 0.767361, 0.430848, 0.369557, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[127] -0.430269 bestSpeed 1.64983e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775204, 0.809519, 0.767362, 0.430849, 0.369557, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[128] -0.430269 bestSpeed 1.81481e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775204, 0.809519, 0.767362, 0.430848, 0.369558, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[129] -0.430269 bestSpeed 1.99629e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775205, 0.809519, 0.767362, 0.430850, 0.369558, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[130] -0.430269 bestSpeed 2.19592e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775205, 0.809519, 0.767363, 0.430847, 0.369558, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[131] -0.430269 bestSpeed 2.41552e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775205, 0.809519, 0.767363, 0.430850, 0.369559, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[132] -0.430269 bestSpeed 2.65707e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775206, 0.809519, 0.767363, 0.430847, 0.369559, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[133] -0.430269 bestSpeed 2.04594e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775206, 0.809519, 0.767363, 0.430849, 0.369559, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[134] -0.430269 bestSpeed 1.57538e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775206, 0.809519, 0.767364, 0.430848, 0.369560, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[135] -0.430269 bestSpeed 1.73291e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775207, 0.809519, 0.767364, 0.430849, 0.369560, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[136] -0.430269 bestSpeed 1.9062e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775207, 0.809519, 0.767364, 0.430848, 0.369560, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[137] -0.430269 bestSpeed 2.09682e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775207, 0.809519, 0.767365, 0.430850, 0.369561, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[138] -0.430269 bestSpeed 1.61455e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775208, 0.809519, 0.767365, 0.430848, 0.369561, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[139] -0.430269 bestSpeed 1.24321e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775208, 0.809519, 0.767365, 0.430849, 0.369561, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[140] -0.430269 bestSpeed 1.36753e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775208, 0.809519, 0.767365, 0.430848, 0.369562, 0.395098), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[141] -0.430269 bestSpeed 1.50428e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775209, 0.809519, 0.767366, 0.430849, 0.369562, 0.395098), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[142] -0.430269 bestSpeed 1.65471e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775209, 0.809519, 0.767366, 0.430848, 0.369562, 0.395098), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[143] -0.430269 bestSpeed 1.82018e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775209, 0.809519, 0.767366, 0.430849, 0.369562, 0.395098), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[144] -0.430269 bestSpeed 2.0022e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775209, 0.809519, 0.767366, 0.430848, 0.369563, 0.395098), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[145] -0.430269 bestSpeed 1.54169e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775210, 0.809519, 0.767367, 0.430849, 0.369563, 0.395098), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[146] -0.430269 bestSpeed 1.1871e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775210, 0.809519, 0.767367, 0.430848, 0.369563, 0.395098), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[147] -0.430269 bestSpeed 1.30581e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775210, 0.809519, 0.767367, 0.430849, 0.369563, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[148] -0.430269 bestSpeed 1.43639e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775210, 0.809519, 0.767367, 0.430848, 0.369564, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[149] -0.430269 bestSpeed 1.58003e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775211, 0.809519, 0.767368, 0.430849, 0.369564, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[150] -0.430269 bestSpeed 1.73804e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775211, 0.809519, 0.767368, 0.430848, 0.369564, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[151] -0.430269 bestSpeed 1.91184e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775211, 0.809519, 0.767368, 0.430850, 0.369564, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[152] -0.430269 bestSpeed 1.47212e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775211, 0.809519, 0.767368, 0.430848, 0.369565, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[153] -0.430269 bestSpeed 1.13353e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775211, 0.809519, 0.767368, 0.430849, 0.369565, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[154] -0.430269 bestSpeed 1.24688e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775212, 0.809519, 0.767369, 0.430848, 0.369565, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[155] -0.430269 bestSpeed 1.37157e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775212, 0.809519, 0.767369, 0.430849, 0.369565, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[156] -0.430269 bestSpeed 1.50873e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775212, 0.809519, 0.767369, 0.430848, 0.369565, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[157] -0.430269 bestSpeed 1.16172e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775212, 0.809519, 0.767369, 0.430849, 0.369566, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[158] -0.430269 bestSpeed 8.94526e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775212, 0.809519, 0.767370, 0.430848, 0.369566, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[159] -0.430269 bestSpeed 9.83978e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775213, 0.809519, 0.767370, 0.430849, 0.369566, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[160] -0.430269 bestSpeed 1.08238e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775213, 0.809519, 0.767370, 0.430848, 0.369566, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[161] -0.430269 bestSpeed 1.19061e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775213, 0.809519, 0.767370, 0.430849, 0.369566, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[162] -0.430269 bestSpeed 1.30968e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775213, 0.809519, 0.767370, 0.430848, 0.369567, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[163] -0.430269 bestSpeed 1.44064e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775213, 0.809519, 0.767371, 0.430849, 0.369567, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[164] -0.430269 bestSpeed 1.10929e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775213, 0.809519, 0.767371, 0.430848, 0.369567, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[165] -0.430269 bestSpeed 8.54157e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775213, 0.809519, 0.767371, 0.430849, 0.369567, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[166] -0.430269 bestSpeed 9.39573e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775214, 0.809519, 0.767371, 0.430848, 0.369567, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[167] -0.430269 bestSpeed 1.03353e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775214, 0.809519, 0.767371, 0.430849, 0.369567, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[168] -0.430269 bestSpeed 1.13688e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775214, 0.809519, 0.767371, 0.430848, 0.369567, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[169] -0.430269 bestSpeed 8.754e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775214, 0.809519, 0.767372, 0.430849, 0.369568, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[170] -0.430269 bestSpeed 6.74058e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775214, 0.809519, 0.767372, 0.430848, 0.369568, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[171] -0.430269 bestSpeed 7.41464e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775214, 0.809519, 0.767372, 0.430849, 0.369568, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[172] -0.430269 bestSpeed 8.1561e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775214, 0.809519, 0.767372, 0.430848, 0.369568, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[173] -0.430269 bestSpeed 8.97171e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767372, 0.430849, 0.369568, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[174] -0.430269 bestSpeed 9.86888e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767372, 0.430848, 0.369568, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[175] -0.430269 bestSpeed 1.08558e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767373, 0.430849, 0.369568, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[176] -0.430269 bestSpeed 8.35894e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767373, 0.430848, 0.369569, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[177] -0.430269 bestSpeed 6.43639e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767373, 0.430849, 0.369569, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[178] -0.430269 bestSpeed 7.08002e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767373, 0.430848, 0.369569, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[179] -0.430269 bestSpeed 7.78803e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767373, 0.430849, 0.369569, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[180] -0.430269 bestSpeed 8.56683e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767373, 0.430848, 0.369569, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[181] -0.430269 bestSpeed 9.42351e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767374, 0.430849, 0.369569, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[182] -0.430269 bestSpeed 1.03659e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767374, 0.430848, 0.369569, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[183] -0.430269 bestSpeed 7.98172e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767374, 0.430849, 0.369569, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[184] -0.430269 bestSpeed 6.14592e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767374, 0.430848, 0.369570, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[185] -0.430269 bestSpeed 6.76051e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767374, 0.430849, 0.369570, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[186] -0.430269 bestSpeed 7.43656e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767374, 0.430848, 0.369570, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[187] -0.430269 bestSpeed 8.18022e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767374, 0.430849, 0.369570, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[188] -0.430269 bestSpeed 6.29877e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767374, 0.430848, 0.369570, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[189] -0.430269 bestSpeed 4.85005e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767375, 0.430849, 0.369570, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[190] -0.430269 bestSpeed 5.33506e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767375, 0.430848, 0.369570, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[191] -0.430269 bestSpeed 5.86856e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767375, 0.430849, 0.369570, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[192] -0.430269 bestSpeed 6.45542e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767375, 0.430848, 0.369570, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[193] -0.430269 bestSpeed 7.10096e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767375, 0.430849, 0.369570, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[194] -0.430269 bestSpeed 7.81106e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767375, 0.430848, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[195] -0.430269 bestSpeed 6.01451e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767375, 0.430849, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[196] -0.430269 bestSpeed 4.63118e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767375, 0.430848, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[197] -0.430269 bestSpeed 5.09429e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767375, 0.430849, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[198] -0.430269 bestSpeed 5.60372e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430848, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[199] -0.430269 bestSpeed 6.1641e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430849, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[200] -0.430269 bestSpeed 6.78051e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430848, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[201] -0.430269 bestSpeed 7.45856e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430849, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[202] -0.430269 bestSpeed 5.74309e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430848, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[203] -0.430269 bestSpeed 4.42218e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430849, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[204] -0.430269 bestSpeed 4.8644e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430848, 0.369571, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[205] -0.430269 bestSpeed 5.35084e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430849, 0.369571, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[206] -0.430269 bestSpeed 5.88592e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430848, 0.369571, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[207] -0.430269 bestSpeed 4.53216e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767376, 0.430849, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[208] -0.430269 bestSpeed 3.48976e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430848, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[209] -0.430269 bestSpeed 3.83874e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430849, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[210] -0.430269 bestSpeed 4.22261e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430848, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[211] -0.430269 bestSpeed 4.64487e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430849, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[212] -0.430269 bestSpeed 5.10936e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430848, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[213] -0.430269 bestSpeed 5.6203e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430849, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[214] -0.430269 bestSpeed 4.32763e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430848, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[215] -0.430269 bestSpeed 3.33227e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430849, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[216] -0.430269 bestSpeed 3.6655e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430848, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[217] -0.430269 bestSpeed 4.03205e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430849, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[218] -0.430269 bestSpeed 4.43526e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430848, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[219] -0.430269 bestSpeed 4.87878e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430849, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[220] -0.430269 bestSpeed 5.36666e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430848, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[221] -0.430269 bestSpeed 4.13233e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430849, 0.369572, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[222] -0.430269 bestSpeed 3.18189e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430848, 0.369572, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[223] -0.430269 bestSpeed 3.50008e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[224] -0.430269 bestSpeed 3.85009e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[225] -0.430269 bestSpeed 4.2351e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[226] -0.430269 bestSpeed 3.26103e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[227] -0.430269 bestSpeed 2.51099e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[228] -0.430269 bestSpeed 2.76209e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[229] -0.430269 bestSpeed 3.0383e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767378, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[230] -0.430269 bestSpeed 3.34213e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767378, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[231] -0.430269 bestSpeed 3.67634e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767378, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[232] -0.430269 bestSpeed 4.04397e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767378, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[233] -0.430269 bestSpeed 3.11386e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767378, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[234] -0.430269 bestSpeed 2.39767e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767378, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[235] -0.430269 bestSpeed 2.63744e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[236] -0.430269 bestSpeed 2.90118e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[237] -0.430269 bestSpeed 3.1913e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[238] -0.430269 bestSpeed 2.4573e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[239] -0.430269 bestSpeed 1.89212e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[240] -0.430269 bestSpeed 2.08134e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[241] -0.430269 bestSpeed 2.28947e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[242] -0.430269 bestSpeed 2.51842e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[243] -0.430269 bestSpeed 2.77026e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[244] -0.430269 bestSpeed 3.04728e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369573, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[245] -0.430269 bestSpeed 3.35201e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369573, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[246] -0.430269 bestSpeed 2.58105e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369573, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[247] -0.430269 bestSpeed 1.98741e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369573, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[248] -0.430269 bestSpeed 2.18615e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[249] -0.430269 bestSpeed 2.40476e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[250] -0.430269 bestSpeed 2.64524e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[251] -0.430269 bestSpeed 2.03683e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[252] -0.430269 bestSpeed 1.56836e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[253] -0.430269 bestSpeed 1.7252e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[254] -0.430269 bestSpeed 1.89772e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[255] -0.430269 bestSpeed 2.08749e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[256] -0.430269 bestSpeed 2.29624e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[257] -0.430269 bestSpeed 2.52586e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430849, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[258] -0.430269 bestSpeed 1.94491e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430848, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[259] -0.430269 bestSpeed 1.49758e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430849, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[260] -0.430269 bestSpeed 1.64734e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430848, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[261] -0.430269 bestSpeed 1.81208e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430849, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[262] -0.430269 bestSpeed 1.99328e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430848, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[263] -0.430269 bestSpeed 2.19261e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430849, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] After 264 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 0
+[0] prev_ICM=0.002755, solve subproblem with rho=1.000000
+[0] linesearch[1] -0.430758 bestSpeed 3.21991e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430816, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[2] -0.430759 bestSpeed 2.47933e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430841, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[3] -0.430761 bestSpeed 1.90908e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430822, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] After 4 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 6
+[0] prev_ICM=0.000295, solve subproblem with rho=10.000000
+[0] linesearch[1] -0.430813 bestSpeed 2.65173e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430819, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] After 2 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 6
+[0] ICM=0.000049, Augmented lagrangian coverges!
+[0] MxComputeGradientDescent: final fit is -0.430819
+est 6: c(0.77522, 0.80952, 0.76738, 0.43082, 0.36957, 0.39509)
+[0] MxComputeGradientDescent: engine SD (ID 3) gradient=central tol=6.3e-12
+[0] Welcome to SD, constrained=1 ICM_tol=0.000100
+[0] prev_ICM=inf, solve subproblem with rho=0.000100
+[0] After 1 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 6
+[0] ICM=0.000000, Augmented lagrangian coverges!
+[0] MxComputeGradientDescent: final fit is 0.352538
+est 6: c(0.80295, 0.79923, 0.76081, 0.35254, 0.38612, 0.40513)
+> omxCheckCloseEnough(nrow(tmp$output$confidenceIntervals), 1)
+nrow(tmp$output$confidenceIntervals) and 1 are equal to within 1e-15.
+> 
+> omxCheckCloseEnough(tmp$output$confidenceIntervals[1, c('lbound', 'ubound')],
++                     c(.280, .430), .01)
+Error in na.fail.default(a) : missing values in object
+Calls: omxCheckCloseEnough -> na.action -> na.fail.default
+Execution halted
+joshua@tailwind:/opt/OpenMx$ make cran-installChecking code style
+Binary file inst/models/nightly/Rplots.pdf matches
+inst/models/nightly/brooke.R:SatModel@submodels$MZf@matrices$Age1
+inst/models/nightly/brooke.R:SatModel@submodels$MZf@matrices$BageTHf
+inst/models/passing/ContinuousOnlyWLSTest.R:diag(td@labels) <- paste("var", 1:8, sep="")
+inst/models/passing/ContinuousOnlyWLSTest.R:td@labels[selMat] <- paste("cov", c(51, 42, 62, 73, 84, 86), sep="")
+inst/models/passing/ContinuousOnlyWLSTest.R:td@labels[selMat[,2:1]] <- paste("cov", c(51, 42, 62, 73, 84, 86), sep="")
+inst/models/passing/check_models_can_be_rerun.R:	mxPath(from = latents, arrows = 2, free = FALSE, values = 1), # latent fixed@1
+inst/models/passing/OrdinalTest.R:dataMatrix@observed[[1]] <-
+inst/models/passing/OrdinalTest.R:  omxCheckWarning(ordered(dataMatrix@observed[[1]], levels=0:12, labels=c(0:11,3)),
+inst/models/passing/MatrixErrorDetection.R:J@values[1,2] <- 2
+inst/models/passing/MatrixErrorDetection.R:J@free[1,2] <- TRUE
+inst/models/passing/MatrixErrorDetection.R:U@values[1,2] <- 2
+inst/models/passing/MatrixErrorDetection.R:U@free[1,2] <- TRUE
+inst/models/passing/MatrixErrorDetection.R:Z@values[1,2] <- 2
+inst/models/passing/MatrixErrorDetection.R:Z@free[1,2] <- TRUE
+inst/models/passing/MatrixErrorDetection.R:Fu@free <- matrix(T,2,3)
+inst/models/passing/MatrixErrorDetection.R:Fu@free <- matrix(T,1,1)
+inst/models/passing/MatrixErrorDetection.R:Fu@.condenseSlots <- FALSE
+inst/models/passing/MatrixErrorDetection.R:Fu@labels <- matrix("nana",1,1)
+Binary file inst/models/failing/memprobmodel2.RData matches
+*** Access of @ slots must be done using $
+./util/prep cran
+* CRAN build selected
+MAKEFLAGS="-j 7" R CMD INSTALL --force-biarch --dsym .
+* installing to library ‘/home/joshua/R/x86_64-pc-linux-gnu-library/3.1’
+* installing *source* package ‘OpenMx’ ...
+Change default C/C++ compiler and default compile flags by editing ~/.R/Makevars
+** libs
+make[1]: Entering directory '/opt/OpenMx/src'
+mkdir -p ../inst/debug
+cp *.gcno ../inst/debug/
+cp: cannot stat ‘*.gcno’: No such file or directory
+Makevars:39: recipe for target 'save-gcno' failed
+make[1]: [save-gcno] Error 1 (ignored)
+make[1]: Leaving directory '/opt/OpenMx/src'
+installing to /home/joshua/R/x86_64-pc-linux-gnu-library/3.1/OpenMx/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** demo
+** inst
+** preparing package for lazy loading
+Creating a generic function for ‘print’ from package ‘base’ in package ‘OpenMx’
+Creating a generic function for ‘nrow’ from package ‘base’ in package ‘OpenMx’
+Creating a generic function for ‘ncol’ from package ‘base’ in package ‘OpenMx’
+Creating a generic function for ‘summary’ from package ‘base’ in package ‘OpenMx’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (OpenMx)
+joshua@tailwind:/opt/OpenMx$ IMX_OPT_ENGINE=SD R --no-save -f inst/models/passing/CIduplicates.R 
+
+R version 3.1.1 (2014-07-10) -- "Sock it to Me"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> library(OpenMx)
+Loading required package: digest
+Loading required package: MASS
+Loading required package: parallel
+> data(myFADataRaw, package="OpenMx")
+> manifests = paste0("x",1:3)
+> myFADataRaw = myFADataRaw[, manifests]
+> latents = c("G")
+> m1 <- mxModel("m1", type="RAM",
++ 	manifestVars = manifests, latentVars   = latents,
++ 	mxPath(from = latents, to = manifests),
++ 	mxPath(from = manifests, arrows = 2, labels = paste0(manifests, "_resid")),
++ 	mxPath(from = latents, arrows = 2, free = F, values = 1), # latents fixed at 1
++ 	mxData(cov(myFADataRaw, use="complete"), type = "cov", numObs = nrow(myFADataRaw))
++ )
+> m1$S$lbound <- .1
+> m1 = mxRun(m1)
+Running m1
+[0] Welcome to SD, constrained=0 ICM_tol=0.000100
+[0] linesearch[1] 1303.870301 bestSpeed 1
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.321591, 0.324957, 0.315213, 0.628196, 0.649207, 0.622834), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[2] 1098.168902 bestSpeed 1
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.906732, 0.892533, 0.889432, 0.668080, 0.687947, 0.674302), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[3] 977.286196 bestSpeed 0.7
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.764579, 0.787188, 0.741064, 0.270458, 0.316563, 0.299266), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[4] 949.929230 bestSpeed 0.26411
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.803846, 0.775711, 0.760956, 0.436523, 0.425685, 0.467193), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[5] 939.478944 bestSpeed 0.142355
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775459, 0.806942, 0.750421, 0.337631, 0.374716, 0.389763), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[6] 938.341771 bestSpeed 0.0537107
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.805565, 0.788719, 0.756041, 0.371575, 0.382283, 0.409897), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[7] 937.869422 bestSpeed 0.02895
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.792319, 0.802347, 0.759003, 0.350976, 0.385849, 0.404318), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[8] 937.799148 bestSpeed 0.0156041
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.804208, 0.795444, 0.758596, 0.357911, 0.383452, 0.404997), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[9] 937.777898 bestSpeed 0.0120151
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.797974, 0.801332, 0.760802, 0.350523, 0.386821, 0.405155), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[10] 937.753614 bestSpeed 0.00925165
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.804570, 0.797288, 0.759751, 0.355123, 0.384967, 0.404950), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[11] 937.748644 bestSpeed 0.00712377
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.800348, 0.800551, 0.761163, 0.350975, 0.386695, 0.405261), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[12] 937.738852 bestSpeed 0.00548531
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.804113, 0.798230, 0.760266, 0.353880, 0.385591, 0.405002), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[13] 937.738311 bestSpeed 0.00422369
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.801468, 0.800060, 0.761149, 0.351465, 0.386501, 0.405246), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[14] 937.733990 bestSpeed 0.00325224
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.803656, 0.798717, 0.760525, 0.353243, 0.385867, 0.405052), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[15] 937.732374 bestSpeed 0.00175296
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802529, 0.799448, 0.760905, 0.352248, 0.386216, 0.405167), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[16] 937.732102 bestSpeed 0.000944843
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.803172, 0.799070, 0.760713, 0.352763, 0.386041, 0.405102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[17] 937.732074 bestSpeed 0.000727529
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802705, 0.799370, 0.760878, 0.352349, 0.386183, 0.405156), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[18] 937.731955 bestSpeed 0.000560198
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.803080, 0.799146, 0.760758, 0.352659, 0.386079, 0.405115), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[19] 937.731902 bestSpeed 0.000301947
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802884, 0.799269, 0.760827, 0.352489, 0.386136, 0.405138), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[20] 937.731897 bestSpeed 0.000162749
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802994, 0.799205, 0.760792, 0.352579, 0.386107, 0.405126), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[21] 937.731894 bestSpeed 0.000125317
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802912, 0.799255, 0.760821, 0.352508, 0.386130, 0.405135), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[22] 937.731892 bestSpeed 9.6494e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802977, 0.799217, 0.760800, 0.352562, 0.386113, 0.405128), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[23] 937.731891 bestSpeed 7.43004e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802928, 0.799247, 0.760817, 0.352520, 0.386127, 0.405133), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[24] 937.731890 bestSpeed 5.72113e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802966, 0.799224, 0.760804, 0.352552, 0.386116, 0.405129), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[25] 937.731890 bestSpeed 4.40527e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802937, 0.799242, 0.760814, 0.352527, 0.386124, 0.405132), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[26] 937.731890 bestSpeed 3.39206e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802959, 0.799228, 0.760806, 0.352546, 0.386118, 0.405130), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[27] 937.731890 bestSpeed 2.61188e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802942, 0.799239, 0.760812, 0.352531, 0.386123, 0.405132), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[28] 937.731889 bestSpeed 2.01115e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802955, 0.799231, 0.760808, 0.352543, 0.386119, 0.405130), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[29] 937.731889 bestSpeed 1.54859e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802945, 0.799237, 0.760811, 0.352534, 0.386122, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[30] 937.731889 bestSpeed 1.19241e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802953, 0.799232, 0.760809, 0.352541, 0.386120, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[31] 937.731889 bestSpeed 6.4271e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802949, 0.799235, 0.760810, 0.352537, 0.386121, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[32] 937.731889 bestSpeed 3.46421e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802951, 0.799233, 0.760809, 0.352539, 0.386120, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[33] 937.731889 bestSpeed 2.66744e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802949, 0.799234, 0.760810, 0.352537, 0.386121, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[34] 937.731889 bestSpeed 2.05393e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802951, 0.799234, 0.760809, 0.352539, 0.386120, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[35] 937.731889 bestSpeed 1.58152e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802950, 0.799234, 0.760810, 0.352538, 0.386121, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[36] 937.731889 bestSpeed 1.21777e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802950, 0.799234, 0.760809, 0.352538, 0.386121, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[37] 937.731889 bestSpeed 6.5638e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802950, 0.799234, 0.760810, 0.352538, 0.386121, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] After 38 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 0
+[0] MxComputeGradientDescent: final fit is 937.731889
+est 6: c(0.80295, 0.79923, 0.76081, 0.35254, 0.38612, 0.40513)
+> 
+> tmp = mxRun(mxModel(m1, mxCI(c("x1_resid","S[1,1]"))), intervals = T)
+Running m1
+[0] Welcome to SD, constrained=0 ICM_tol=0.000100
+[0] After 1 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 0
+[0] MxComputeGradientDescent: final fit is 937.731889
+est 6: c(0.80295, 0.79923, 0.76081, 0.35254, 0.38612, 0.40513)
+[0] Welcome to SD, constrained=1 ICM_tol=0.000100
+[0] prev_ICM=inf, solve subproblem with rho=0.000100
+[0] linesearch[1] -0.459340 bestSpeed 0.49
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.802950, 0.799234, 0.760810, 0.842538, 0.386121, 0.405131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[2] -0.554265 bestSpeed 0.26411
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.660392, 0.857263, 0.813456, 0.649557, 0.326063, 0.355697), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[3] -0.579306 bestSpeed 0.142355
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.751452, 0.810009, 0.760993, 0.683165, 0.374595, 0.414882), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[4] -0.582382 bestSpeed 0.0767295
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.715141, 0.825717, 0.773552, 0.674026, 0.330119, 0.369026), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[5] -0.583178 bestSpeed 0.0590817
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721999, 0.825679, 0.772726, 0.687064, 0.367107, 0.412670), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[6] -0.585484 bestSpeed 0.0454929
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.726168, 0.818448, 0.765986, 0.684318, 0.335878, 0.381498), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[7] -0.586810 bestSpeed 0.0245207
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.720856, 0.826092, 0.768963, 0.685306, 0.352064, 0.397080), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[8] -0.586924 bestSpeed 0.0132166
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.723315, 0.820985, 0.769015, 0.687509, 0.341971, 0.391094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[9] -0.586997 bestSpeed 0.0101768
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721154, 0.826675, 0.767170, 0.687256, 0.349038, 0.394713), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[10] -0.587046 bestSpeed 0.00783615
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.722323, 0.822105, 0.769454, 0.687585, 0.343272, 0.393955), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[11] -0.587076 bestSpeed 0.00603384
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721569, 0.826092, 0.766749, 0.687511, 0.346824, 0.393948), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[12] -0.587095 bestSpeed 0.00464605
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721968, 0.823238, 0.768863, 0.687622, 0.343977, 0.394780), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[13] -0.587106 bestSpeed 0.00357746
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721680, 0.825615, 0.766932, 0.687605, 0.345714, 0.394215), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[14] -0.587113 bestSpeed 0.00275465
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721853, 0.823951, 0.768289, 0.687652, 0.344166, 0.394958), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[15] -0.587117 bestSpeed 0.00212108
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721708, 0.825359, 0.767095, 0.687645, 0.345116, 0.394550), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[16] -0.587120 bestSpeed 0.00163323
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721801, 0.824385, 0.767907, 0.687668, 0.344213, 0.395035), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[17] -0.587121 bestSpeed 0.00125759
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721719, 0.825225, 0.767188, 0.687663, 0.344756, 0.394791), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[18] -0.587122 bestSpeed 0.000968342
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721774, 0.824653, 0.767667, 0.687676, 0.344218, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[19] -0.587122 bestSpeed 0.000745623
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721725, 0.825155, 0.767237, 0.687673, 0.344531, 0.394951), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[20] -0.587123 bestSpeed 0.00057413
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721758, 0.824819, 0.767518, 0.687681, 0.344208, 0.395131), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[21] -0.587123 bestSpeed 0.00044208
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721729, 0.825119, 0.767260, 0.687679, 0.344387, 0.395055), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[22] -0.587123 bestSpeed 0.000340402
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721748, 0.824922, 0.767425, 0.687683, 0.344193, 0.395164), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[23] -0.587123 bestSpeed 0.000262109
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721731, 0.825103, 0.767271, 0.687682, 0.344295, 0.395123), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[24] -0.587123 bestSpeed 0.000201824
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721742, 0.824987, 0.767367, 0.687685, 0.344178, 0.395188), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[25] -0.587123 bestSpeed 0.000108783
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721735, 0.825063, 0.767302, 0.687685, 0.344218, 0.395174), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[26] -0.587123 bestSpeed 5.86341e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721738, 0.825035, 0.767324, 0.687686, 0.344178, 0.395199), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[27] -0.587123 bestSpeed 4.51483e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721735, 0.825069, 0.767295, 0.687686, 0.344185, 0.395201), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[28] -0.587123 bestSpeed 4.96631e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721737, 0.825048, 0.767312, 0.687687, 0.344150, 0.395223), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[29] -0.587123 bestSpeed 5.46294e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825086, 0.767279, 0.687687, 0.344168, 0.395217), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[30] -0.587123 bestSpeed 4.20647e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721736, 0.825063, 0.767298, 0.687688, 0.344143, 0.395232), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[31] -0.587123 bestSpeed 2.26728e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825080, 0.767284, 0.687688, 0.344150, 0.395230), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[32] -0.587123 bestSpeed 1.74581e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721735, 0.825073, 0.767289, 0.687688, 0.344137, 0.395239), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[33] -0.587123 bestSpeed 1.92039e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825087, 0.767277, 0.687688, 0.344142, 0.395238), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[34] -0.587123 bestSpeed 2.11243e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721735, 0.825076, 0.767286, 0.687688, 0.344129, 0.395246), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[35] -0.587123 bestSpeed 1.62657e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825087, 0.767277, 0.687688, 0.344135, 0.395243), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[36] -0.587123 bestSpeed 8.76722e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825083, 0.767280, 0.687688, 0.344129, 0.395247), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[37] -0.587123 bestSpeed 6.75076e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825088, 0.767276, 0.687688, 0.344131, 0.395247), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[38] -0.587123 bestSpeed 5.19808e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825085, 0.767278, 0.687689, 0.344127, 0.395249), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[39] -0.587123 bestSpeed 4.00252e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825088, 0.767275, 0.687689, 0.344128, 0.395249), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[40] -0.587123 bestSpeed 3.08194e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825087, 0.767276, 0.687689, 0.344126, 0.395250), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[41] -0.587123 bestSpeed 2.3731e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825088, 0.767275, 0.687689, 0.344126, 0.395250), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[42] -0.587123 bestSpeed 2.61041e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825087, 0.767276, 0.687689, 0.344124, 0.395251), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[43] -0.587123 bestSpeed 2.87145e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825089, 0.767274, 0.687689, 0.344125, 0.395251), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[44] -0.587123 bestSpeed 2.21101e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825088, 0.767275, 0.687689, 0.344124, 0.395252), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[45] -0.587123 bestSpeed 1.70248e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825089, 0.767274, 0.687689, 0.344124, 0.395252), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[46] -0.587123 bestSpeed 1.31091e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825089, 0.767275, 0.687689, 0.344124, 0.395252), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[47] -0.587123 bestSpeed 7.0658e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825089, 0.767274, 0.687689, 0.344124, 0.395252), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[48] -0.587123 bestSpeed 5.44067e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825089, 0.767274, 0.687689, 0.344123, 0.395253), byrow=TRUE, nrow=1, ncol=6))
+[0] After 49 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 0
+[0] prev_ICM=44.847629, solve subproblem with rho=0.001000
+[0] linesearch[1] -0.298476 bestSpeed 0.343
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.721734, 0.825090, 0.767273, 0.344689, 0.344124, 0.395253), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[2] -0.352268 bestSpeed 0.184877
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.824880, 0.786799, 0.740130, 0.487516, 0.372625, 0.406449), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[3] -0.380466 bestSpeed 0.142355
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.735064, 0.834893, 0.785555, 0.399232, 0.374834, 0.401709), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[4] -0.415654 bestSpeed 0.109614
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.793887, 0.802279, 0.762752, 0.481013, 0.361536, 0.391400), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[5] -0.423700 bestSpeed 0.0590817
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.758659, 0.822524, 0.774446, 0.441359, 0.371787, 0.396447), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[6] -0.426702 bestSpeed 0.0454929
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774472, 0.809528, 0.768964, 0.480486, 0.363265, 0.392320), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[7] -0.428314 bestSpeed 0.0350295
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.760202, 0.817955, 0.771429, 0.449898, 0.366511, 0.392715), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[8] -0.429968 bestSpeed 0.0269728
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.769507, 0.810921, 0.768820, 0.473942, 0.363961, 0.392888), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[9] -0.430143 bestSpeed 0.020769
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.762189, 0.815430, 0.769983, 0.455123, 0.365344, 0.392659), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[10] -0.430985 bestSpeed 0.0159921
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.767517, 0.811633, 0.768612, 0.469609, 0.364309, 0.393059), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[11] -0.431282 bestSpeed 0.00861977
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.764618, 0.813430, 0.769155, 0.461725, 0.364758, 0.392895), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[12] -0.431356 bestSpeed 0.00464605
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.766175, 0.812317, 0.768700, 0.465924, 0.364503, 0.393042), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[13] -0.431382 bestSpeed 0.00250422
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765314, 0.812838, 0.768852, 0.463640, 0.364641, 0.393006), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[14] -0.431387 bestSpeed 0.00134978
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765751, 0.812513, 0.768712, 0.464865, 0.364566, 0.393049), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[15] -0.431390 bestSpeed 0.000727529
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765495, 0.812664, 0.768754, 0.464203, 0.364604, 0.393039), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[16] -0.431390 bestSpeed 0.000392138
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765616, 0.812567, 0.768709, 0.464559, 0.364581, 0.393053), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[17] -0.431390 bestSpeed 0.000301947
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765508, 0.812629, 0.768726, 0.464285, 0.364596, 0.393049), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[18] -0.431390 bestSpeed 0.000232499
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765582, 0.812575, 0.768702, 0.464497, 0.364582, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[19] -0.431390 bestSpeed 0.000179024
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765520, 0.812613, 0.768714, 0.464334, 0.364592, 0.393053), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[20] -0.431390 bestSpeed 0.000137849
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765565, 0.812581, 0.768701, 0.464460, 0.364584, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[21] -0.431390 bestSpeed 0.000106143
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765528, 0.812605, 0.768709, 0.464363, 0.364589, 0.393054), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[22] -0.431390 bestSpeed 8.17304e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765555, 0.812586, 0.768702, 0.464438, 0.364585, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[23] -0.431390 bestSpeed 6.29324e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765534, 0.812600, 0.768707, 0.464380, 0.364588, 0.393055), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[24] -0.431390 bestSpeed 4.8458e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765550, 0.812589, 0.768702, 0.464424, 0.364585, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[25] -0.431391 bestSpeed 3.73126e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765538, 0.812597, 0.768705, 0.464391, 0.364587, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[26] -0.431391 bestSpeed 2.01115e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765544, 0.812593, 0.768704, 0.464409, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[27] -0.431391 bestSpeed 1.08401e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765541, 0.812595, 0.768705, 0.464399, 0.364587, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[28] -0.431391 bestSpeed 8.34688e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765543, 0.812593, 0.768704, 0.464407, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[29] -0.431391 bestSpeed 6.4271e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765541, 0.812595, 0.768704, 0.464401, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[30] -0.431391 bestSpeed 4.94886e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765543, 0.812594, 0.768704, 0.464405, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[31] -0.431391 bestSpeed 3.81063e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.464402, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[32] -0.431391 bestSpeed 2.05393e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.464404, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[33] -0.431391 bestSpeed 1.10707e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.464403, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[34] -0.431391 bestSpeed 8.52441e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.464403, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[35] -0.431391 bestSpeed 6.5638e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.464403, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[36] -0.431391 bestSpeed 5.05413e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.464403, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[37] -0.431391 bestSpeed 3.89168e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.464403, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] After 38 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 0
+[0] prev_ICM=3.640804, solve subproblem with rho=0.010000
+[0] linesearch[1] -0.378747 bestSpeed 0.0823543
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.382049, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[2] -0.418882 bestSpeed 0.0634128
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.765542, 0.812594, 0.768704, 0.445461, 0.364586, 0.393056), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[3] -0.425644 bestSpeed 0.016748
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.767875, 0.811701, 0.767954, 0.428946, 0.365375, 0.393599), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[4] -0.426253 bestSpeed 0.00902715
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.767875, 0.811701, 0.767954, 0.437973, 0.365375, 0.393599), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[5] -0.427344 bestSpeed 0.0069509
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.769591, 0.811094, 0.767479, 0.431339, 0.366118, 0.394070), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[6] -0.427602 bestSpeed 0.00374654
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.770875, 0.810647, 0.767150, 0.434746, 0.366705, 0.394427), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[7] -0.427682 bestSpeed 0.00288483
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.771938, 0.810321, 0.766971, 0.432181, 0.367314, 0.394750), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[8] -0.427757 bestSpeed 0.00222132
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.772588, 0.810119, 0.766875, 0.434254, 0.367679, 0.394928), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[9] -0.427779 bestSpeed 0.00171042
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.773027, 0.810013, 0.766890, 0.432641, 0.368002, 0.395044), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[10] -0.427805 bestSpeed 0.00131702
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.773379, 0.809915, 0.766881, 0.433884, 0.368222, 0.395118), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[11] -0.427811 bestSpeed 0.00101411
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.773599, 0.809875, 0.766941, 0.432915, 0.368409, 0.395146), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[12] -0.427821 bestSpeed 0.000780862
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.773797, 0.809826, 0.766964, 0.433656, 0.368543, 0.395168), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[13] -0.427823 bestSpeed 0.000601264
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.773919, 0.809812, 0.767029, 0.433082, 0.368658, 0.395160), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[14] -0.427826 bestSpeed 0.000462973
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774035, 0.809788, 0.767062, 0.433521, 0.368741, 0.395157), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[15] -0.427827 bestSpeed 0.000356489
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774107, 0.809784, 0.767120, 0.433186, 0.368815, 0.395136), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[16] -0.427829 bestSpeed 0.000274497
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774177, 0.809772, 0.767152, 0.433443, 0.368869, 0.395124), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[17] -0.427829 bestSpeed 0.000211363
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774222, 0.809771, 0.767201, 0.433250, 0.368917, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[18] -0.427829 bestSpeed 0.000232499
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774284, 0.809763, 0.767241, 0.433463, 0.368969, 0.395078), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[19] -0.427829 bestSpeed 0.000255749
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774303, 0.809768, 0.767283, 0.433214, 0.368998, 0.395053), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[20] -0.427830 bestSpeed 0.000196927
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774335, 0.809763, 0.767301, 0.433406, 0.369022, 0.395042), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[21] -0.427830 bestSpeed 0.000151633
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774350, 0.809766, 0.767335, 0.433262, 0.369045, 0.395020), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[22] -0.427830 bestSpeed 0.000166797
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774379, 0.809763, 0.767356, 0.433423, 0.369068, 0.395006), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[23] -0.427830 bestSpeed 0.000128433
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774382, 0.809766, 0.767374, 0.433297, 0.369077, 0.394994), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[24] -0.427830 bestSpeed 6.92257e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774396, 0.809765, 0.767387, 0.433362, 0.369089, 0.394985), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[25] -0.427830 bestSpeed 5.33038e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774403, 0.809766, 0.767404, 0.433315, 0.369101, 0.394973), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[26] -0.427830 bestSpeed 5.86341e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774417, 0.809765, 0.767419, 0.433367, 0.369113, 0.394963), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[27] -0.427830 bestSpeed 6.44975e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774421, 0.809767, 0.767433, 0.433305, 0.369121, 0.394953), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[28] -0.427830 bestSpeed 4.96631e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774428, 0.809766, 0.767440, 0.433353, 0.369127, 0.394948), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[29] -0.427830 bestSpeed 3.82406e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774432, 0.809767, 0.767450, 0.433318, 0.369134, 0.394940), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[30] -0.427830 bestSpeed 4.20647e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774439, 0.809767, 0.767458, 0.433358, 0.369140, 0.394935), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[31] -0.427830 bestSpeed 3.23898e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774440, 0.809768, 0.767463, 0.433326, 0.369143, 0.394931), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[32] -0.427830 bestSpeed 2.49401e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774445, 0.809767, 0.767469, 0.433349, 0.369148, 0.394926), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[33] -0.427830 bestSpeed 2.74341e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774447, 0.809768, 0.767475, 0.433323, 0.369151, 0.394922), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[34] -0.427830 bestSpeed 2.11243e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774450, 0.809767, 0.767478, 0.433343, 0.369154, 0.394920), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[35] -0.427830 bestSpeed 1.62657e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774451, 0.809768, 0.767482, 0.433328, 0.369156, 0.394917), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[36] -0.427830 bestSpeed 1.78923e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774454, 0.809768, 0.767485, 0.433345, 0.369159, 0.394914), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[37] -0.427830 bestSpeed 1.37771e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774454, 0.809768, 0.767487, 0.433332, 0.369160, 0.394913), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[38] -0.427830 bestSpeed 1.06083e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774456, 0.809768, 0.767490, 0.433341, 0.369162, 0.394911), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[39] -0.427830 bestSpeed 1.16692e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774457, 0.809768, 0.767492, 0.433330, 0.369163, 0.394909), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[40] -0.427830 bestSpeed 8.98526e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774458, 0.809768, 0.767493, 0.433339, 0.369165, 0.394908), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[41] -0.427830 bestSpeed 6.91865e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774458, 0.809768, 0.767495, 0.433333, 0.369166, 0.394907), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[42] -0.427830 bestSpeed 7.61051e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774459, 0.809768, 0.767496, 0.433340, 0.369167, 0.394906), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[43] -0.427830 bestSpeed 5.86009e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774459, 0.809768, 0.767497, 0.433334, 0.369167, 0.394905), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[44] -0.427830 bestSpeed 4.51227e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774460, 0.809768, 0.767498, 0.433338, 0.369168, 0.394904), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[45] -0.427830 bestSpeed 4.9635e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774460, 0.809768, 0.767499, 0.433334, 0.369169, 0.394904), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[46] -0.427830 bestSpeed 3.82189e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774461, 0.809768, 0.767499, 0.433337, 0.369169, 0.394903), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[47] -0.427830 bestSpeed 2.94286e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774461, 0.809768, 0.767500, 0.433334, 0.369169, 0.394903), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[48] -0.427830 bestSpeed 3.23714e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774462, 0.809768, 0.767501, 0.433338, 0.369170, 0.394902), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[49] -0.427830 bestSpeed 2.4926e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774462, 0.809768, 0.767501, 0.433335, 0.369170, 0.394902), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[50] -0.427830 bestSpeed 1.9193e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774462, 0.809768, 0.767501, 0.433337, 0.369170, 0.394902), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[51] -0.427830 bestSpeed 2.11123e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774462, 0.809768, 0.767502, 0.433335, 0.369171, 0.394902), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[52] -0.427830 bestSpeed 1.62565e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774462, 0.809768, 0.767502, 0.433336, 0.369171, 0.394901), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[53] -0.427830 bestSpeed 1.25175e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774462, 0.809768, 0.767502, 0.433335, 0.369171, 0.394901), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[54] -0.427830 bestSpeed 1.37693e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.433337, 0.369171, 0.394901), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[55] -0.427830 bestSpeed 1.06023e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.433336, 0.369171, 0.394901), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[56] -0.427830 bestSpeed 8.16379e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.433336, 0.369171, 0.394901), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[57] -0.427830 bestSpeed 8.98017e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.433335, 0.369172, 0.394901), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[58] -0.427830 bestSpeed 6.91473e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.433336, 0.369172, 0.394901), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[59] -0.427830 bestSpeed 5.32434e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.433336, 0.369172, 0.394900), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[60] -0.427830 bestSpeed 5.85678e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.433336, 0.369172, 0.394900), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[61] -0.427830 bestSpeed 4.50972e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.433336, 0.369172, 0.394900), byrow=TRUE, nrow=1, ncol=6))
+[0] After 62 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 0
+[0] prev_ICM=0.236765, solve subproblem with rho=0.100000
+[0] linesearch[1] -0.428038 bestSpeed 0.00474756
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.428588, 0.369172, 0.394900), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[2] -0.429403 bestSpeed 0.00365562
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774463, 0.809768, 0.767503, 0.432244, 0.369172, 0.394900), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[3] -0.429723 bestSpeed 0.00197038
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774483, 0.809760, 0.767497, 0.430274, 0.369179, 0.394906), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[4] -0.429873 bestSpeed 0.00151719
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774483, 0.809760, 0.767497, 0.431791, 0.369179, 0.394906), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[5] -0.430072 bestSpeed 0.00116824
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774503, 0.809752, 0.767490, 0.430623, 0.369187, 0.394911), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[6] -0.430191 bestSpeed 0.000629681
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774503, 0.809752, 0.767490, 0.431252, 0.369187, 0.394911), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[7] -0.430218 bestSpeed 0.000484854
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774522, 0.809745, 0.767484, 0.430768, 0.369194, 0.394916), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[8] -0.430225 bestSpeed 0.000373338
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774522, 0.809745, 0.767484, 0.431142, 0.369194, 0.394916), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[9] -0.430263 bestSpeed 0.00028747
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774537, 0.809739, 0.767479, 0.430855, 0.369199, 0.394920), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[10] -0.430264 bestSpeed 0.000108462
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774622, 0.809707, 0.767452, 0.430819, 0.369232, 0.394943), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[11] -0.430264 bestSpeed 5.84612e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774624, 0.809706, 0.767451, 0.430877, 0.369232, 0.394944), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[12] -0.430264 bestSpeed 6.43074e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774648, 0.809697, 0.767443, 0.430820, 0.369243, 0.394951), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[13] -0.430265 bestSpeed 4.95167e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774650, 0.809696, 0.767443, 0.430870, 0.369243, 0.394952), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[14] -0.430265 bestSpeed 5.44683e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774675, 0.809687, 0.767435, 0.430825, 0.369254, 0.394959), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[15] -0.430265 bestSpeed 4.19406e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774684, 0.809683, 0.767432, 0.430865, 0.369258, 0.394962), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[16] -0.430265 bestSpeed 4.61347e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774709, 0.809674, 0.767425, 0.430830, 0.369268, 0.394969), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[17] -0.430266 bestSpeed 5.07482e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774730, 0.809667, 0.767419, 0.430873, 0.369278, 0.394975), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[18] -0.430266 bestSpeed 5.5823e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774750, 0.809659, 0.767413, 0.430823, 0.369287, 0.394981), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[19] -0.430266 bestSpeed 4.29837e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774753, 0.809658, 0.767412, 0.430866, 0.369288, 0.394982), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[20] -0.430266 bestSpeed 4.72821e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774774, 0.809651, 0.767406, 0.430827, 0.369298, 0.394989), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[21] -0.430266 bestSpeed 5.20103e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774792, 0.809644, 0.767401, 0.430874, 0.369306, 0.394994), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[22] -0.430266 bestSpeed 5.72113e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774810, 0.809638, 0.767397, 0.430822, 0.369314, 0.394999), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[23] -0.430267 bestSpeed 4.40527e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774811, 0.809638, 0.767396, 0.430866, 0.369315, 0.395000), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[24] -0.430267 bestSpeed 4.8458e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774831, 0.809630, 0.767391, 0.430824, 0.369325, 0.395006), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[25] -0.430267 bestSpeed 3.73126e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774833, 0.809630, 0.767390, 0.430862, 0.369326, 0.395007), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[26] -0.430267 bestSpeed 4.10439e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774853, 0.809623, 0.767385, 0.430829, 0.369336, 0.395013), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[27] -0.430267 bestSpeed 4.51483e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774867, 0.809618, 0.767382, 0.430871, 0.369343, 0.395017), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[28] -0.430267 bestSpeed 4.96631e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774882, 0.809613, 0.767378, 0.430825, 0.369350, 0.395022), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[29] -0.430267 bestSpeed 3.82406e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774883, 0.809612, 0.767378, 0.430863, 0.369351, 0.395022), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[30] -0.430267 bestSpeed 2.94453e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774895, 0.809608, 0.767375, 0.430838, 0.369357, 0.395026), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[31] -0.430268 bestSpeed 3.23898e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774909, 0.809604, 0.767372, 0.430865, 0.369364, 0.395031), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[32] -0.430268 bestSpeed 3.56288e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774921, 0.809599, 0.767369, 0.430833, 0.369371, 0.395034), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[33] -0.430268 bestSpeed 3.91916e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774933, 0.809596, 0.767366, 0.430869, 0.369377, 0.395038), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[34] -0.430268 bestSpeed 4.31108e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774944, 0.809592, 0.767364, 0.430828, 0.369383, 0.395042), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[35] -0.430268 bestSpeed 4.74219e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774955, 0.809588, 0.767362, 0.430874, 0.369389, 0.395045), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[36] -0.430268 bestSpeed 5.21641e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774965, 0.809585, 0.767360, 0.430823, 0.369395, 0.395048), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[37] -0.430268 bestSpeed 4.01663e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774965, 0.809585, 0.767360, 0.430864, 0.369395, 0.395049), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[38] -0.430268 bestSpeed 3.09281e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774975, 0.809582, 0.767358, 0.430835, 0.369400, 0.395052), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[39] -0.430268 bestSpeed 3.40209e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774984, 0.809579, 0.767356, 0.430867, 0.369406, 0.395055), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[40] -0.430268 bestSpeed 3.7423e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.774993, 0.809576, 0.767354, 0.430831, 0.369411, 0.395057), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[41] -0.430268 bestSpeed 4.11653e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775002, 0.809573, 0.767353, 0.430871, 0.369416, 0.395060), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[42] -0.430268 bestSpeed 4.52818e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775010, 0.809570, 0.767352, 0.430827, 0.369421, 0.395063), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[43] -0.430268 bestSpeed 3.4867e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775011, 0.809570, 0.767351, 0.430861, 0.369421, 0.395063), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[44] -0.430268 bestSpeed 2.68476e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775019, 0.809568, 0.767350, 0.430836, 0.369426, 0.395065), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[45] -0.430268 bestSpeed 2.95323e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775026, 0.809565, 0.767349, 0.430864, 0.369430, 0.395068), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[46] -0.430268 bestSpeed 3.24856e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775034, 0.809563, 0.767348, 0.430833, 0.369435, 0.395070), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[47] -0.430268 bestSpeed 3.57341e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775040, 0.809561, 0.767347, 0.430868, 0.369439, 0.395072), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[48] -0.430268 bestSpeed 2.75153e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775045, 0.809560, 0.767347, 0.430841, 0.369442, 0.395073), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[49] -0.430268 bestSpeed 2.11868e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775052, 0.809557, 0.767346, 0.430860, 0.369446, 0.395075), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[50] -0.430268 bestSpeed 2.33054e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775058, 0.809556, 0.767345, 0.430838, 0.369450, 0.395077), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[51] -0.430268 bestSpeed 2.5636e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775064, 0.809554, 0.767344, 0.430863, 0.369454, 0.395079), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[52] -0.430268 bestSpeed 2.81996e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775069, 0.809552, 0.767344, 0.430835, 0.369457, 0.395081), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[53] -0.430269 bestSpeed 2.17137e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775073, 0.809551, 0.767344, 0.430856, 0.369460, 0.395082), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[54] -0.430269 bestSpeed 1.67195e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775079, 0.809550, 0.767343, 0.430841, 0.369463, 0.395083), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[55] -0.430269 bestSpeed 1.83915e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775084, 0.809548, 0.767343, 0.430858, 0.369466, 0.395085), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[56] -0.430269 bestSpeed 2.02306e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775088, 0.809547, 0.767342, 0.430839, 0.369470, 0.395086), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[57] -0.430269 bestSpeed 2.22537e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775093, 0.809545, 0.767342, 0.430861, 0.369473, 0.395087), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[58] -0.430269 bestSpeed 1.71353e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775096, 0.809544, 0.767342, 0.430844, 0.369475, 0.395088), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[59] -0.430269 bestSpeed 1.31942e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775101, 0.809543, 0.767342, 0.430856, 0.369478, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[60] -0.430269 bestSpeed 1.45136e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775105, 0.809542, 0.767342, 0.430842, 0.369481, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[61] -0.430269 bestSpeed 1.5965e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775109, 0.809541, 0.767342, 0.430857, 0.369483, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[62] -0.430269 bestSpeed 1.75615e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775113, 0.809540, 0.767342, 0.430840, 0.369486, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[63] -0.430269 bestSpeed 1.93177e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775117, 0.809539, 0.767342, 0.430859, 0.369489, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[64] -0.430269 bestSpeed 1.48746e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775119, 0.809538, 0.767342, 0.430845, 0.369490, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[65] -0.430269 bestSpeed 1.14534e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775123, 0.809537, 0.767342, 0.430855, 0.369493, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[66] -0.430269 bestSpeed 1.25988e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775126, 0.809536, 0.767342, 0.430843, 0.369495, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[67] -0.430269 bestSpeed 1.38587e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775129, 0.809535, 0.767342, 0.430856, 0.369497, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[68] -0.430269 bestSpeed 1.52445e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775132, 0.809535, 0.767342, 0.430841, 0.369500, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[69] -0.430269 bestSpeed 1.17383e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775134, 0.809534, 0.767342, 0.430853, 0.369501, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[70] -0.430269 bestSpeed 9.03848e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775137, 0.809533, 0.767342, 0.430845, 0.369503, 0.395098), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[71] -0.430269 bestSpeed 9.94233e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775140, 0.809533, 0.767342, 0.430854, 0.369505, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[72] -0.430269 bestSpeed 1.09366e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775143, 0.809532, 0.767343, 0.430843, 0.369507, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[73] -0.430269 bestSpeed 1.20302e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775145, 0.809531, 0.767343, 0.430855, 0.369509, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[74] -0.430269 bestSpeed 1.32332e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775148, 0.809531, 0.767343, 0.430842, 0.369511, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[75] -0.430269 bestSpeed 1.01896e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775149, 0.809530, 0.767343, 0.430852, 0.369512, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[76] -0.430269 bestSpeed 7.84599e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775152, 0.809530, 0.767344, 0.430845, 0.369514, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[77] -0.430269 bestSpeed 8.63058e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775154, 0.809529, 0.767344, 0.430853, 0.369516, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[78] -0.430269 bestSpeed 9.49364e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775156, 0.809529, 0.767344, 0.430844, 0.369517, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[79] -0.430269 bestSpeed 1.0443e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775158, 0.809528, 0.767344, 0.430854, 0.369519, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[80] -0.430269 bestSpeed 8.04112e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775159, 0.809528, 0.767345, 0.430846, 0.369520, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[81] -0.430269 bestSpeed 6.19166e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775161, 0.809527, 0.767345, 0.430852, 0.369521, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[82] -0.430269 bestSpeed 6.81082e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775163, 0.809527, 0.767345, 0.430846, 0.369523, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[83] -0.430269 bestSpeed 7.49191e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775165, 0.809527, 0.767346, 0.430853, 0.369524, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[84] -0.430269 bestSpeed 8.2411e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775167, 0.809526, 0.767346, 0.430845, 0.369526, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[85] -0.430269 bestSpeed 9.06521e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775169, 0.809526, 0.767346, 0.430853, 0.369527, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[86] -0.430269 bestSpeed 6.98021e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775170, 0.809526, 0.767347, 0.430847, 0.369528, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[87] -0.430269 bestSpeed 5.37476e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775171, 0.809525, 0.767347, 0.430852, 0.369529, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[88] -0.430269 bestSpeed 5.91224e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775173, 0.809525, 0.767347, 0.430846, 0.369530, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[89] -0.430269 bestSpeed 6.50346e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775174, 0.809525, 0.767348, 0.430852, 0.369532, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[90] -0.430269 bestSpeed 7.15381e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775176, 0.809524, 0.767348, 0.430845, 0.369533, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[91] -0.430269 bestSpeed 5.50843e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775177, 0.809524, 0.767349, 0.430851, 0.369533, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[92] -0.430269 bestSpeed 4.24149e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775178, 0.809524, 0.767349, 0.430847, 0.369535, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[93] -0.430269 bestSpeed 4.66564e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775179, 0.809523, 0.767349, 0.430851, 0.369536, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[94] -0.430269 bestSpeed 5.13221e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775180, 0.809523, 0.767350, 0.430846, 0.369537, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[95] -0.430269 bestSpeed 5.64543e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775182, 0.809523, 0.767350, 0.430852, 0.369538, 0.395104), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[96] -0.430269 bestSpeed 6.20997e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775183, 0.809523, 0.767351, 0.430846, 0.369539, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[97] -0.430269 bestSpeed 4.78168e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775183, 0.809523, 0.767351, 0.430850, 0.369539, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[98] -0.430269 bestSpeed 3.68189e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775185, 0.809522, 0.767351, 0.430847, 0.369540, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[99] -0.430269 bestSpeed 4.05008e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775186, 0.809522, 0.767352, 0.430851, 0.369541, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[100] -0.430269 bestSpeed 4.45509e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775187, 0.809522, 0.767352, 0.430846, 0.369542, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[101] -0.430269 bestSpeed 4.9006e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775188, 0.809522, 0.767352, 0.430851, 0.369543, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[102] -0.430269 bestSpeed 3.77346e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775188, 0.809522, 0.767353, 0.430847, 0.369543, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[103] -0.430269 bestSpeed 2.90556e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775189, 0.809522, 0.767353, 0.430850, 0.369544, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[104] -0.430269 bestSpeed 3.19612e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775190, 0.809521, 0.767354, 0.430847, 0.369545, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[105] -0.430269 bestSpeed 3.51573e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775191, 0.809521, 0.767354, 0.430850, 0.369546, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[106] -0.430269 bestSpeed 3.86731e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775192, 0.809521, 0.767354, 0.430847, 0.369546, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[107] -0.430269 bestSpeed 4.25404e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775193, 0.809521, 0.767355, 0.430851, 0.369547, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[108] -0.430269 bestSpeed 4.67944e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775193, 0.809521, 0.767355, 0.430846, 0.369548, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[109] -0.430269 bestSpeed 3.60317e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775194, 0.809521, 0.767355, 0.430850, 0.369548, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[110] -0.430269 bestSpeed 2.77444e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775195, 0.809521, 0.767356, 0.430847, 0.369549, 0.395103), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[111] -0.430269 bestSpeed 3.05188e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775195, 0.809521, 0.767356, 0.430850, 0.369549, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[112] -0.430269 bestSpeed 3.35707e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775196, 0.809520, 0.767357, 0.430847, 0.369550, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[113] -0.430269 bestSpeed 3.69278e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775197, 0.809520, 0.767357, 0.430850, 0.369551, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[114] -0.430269 bestSpeed 2.84344e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775197, 0.809520, 0.767357, 0.430848, 0.369551, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[115] -0.430269 bestSpeed 2.18945e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775198, 0.809520, 0.767358, 0.430850, 0.369552, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[116] -0.430269 bestSpeed 2.40839e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775198, 0.809520, 0.767358, 0.430847, 0.369552, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[117] -0.430269 bestSpeed 2.64923e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775199, 0.809520, 0.767358, 0.430850, 0.369553, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[118] -0.430269 bestSpeed 2.91416e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775200, 0.809520, 0.767359, 0.430847, 0.369553, 0.395102), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[119] -0.430269 bestSpeed 3.20557e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775200, 0.809520, 0.767359, 0.430850, 0.369554, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[120] -0.430269 bestSpeed 3.52613e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775201, 0.809520, 0.767359, 0.430847, 0.369554, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[121] -0.430269 bestSpeed 2.71512e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775201, 0.809520, 0.767360, 0.430849, 0.369555, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[122] -0.430269 bestSpeed 2.09064e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775202, 0.809520, 0.767360, 0.430848, 0.369555, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[123] -0.430269 bestSpeed 2.29971e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775202, 0.809520, 0.767360, 0.430850, 0.369556, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[124] -0.430269 bestSpeed 2.52968e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775203, 0.809520, 0.767361, 0.430847, 0.369556, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[125] -0.430269 bestSpeed 2.78264e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775203, 0.809519, 0.767361, 0.430850, 0.369556, 0.395101), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[126] -0.430269 bestSpeed 2.14264e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775203, 0.809519, 0.767361, 0.430848, 0.369557, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[127] -0.430269 bestSpeed 1.64983e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775204, 0.809519, 0.767362, 0.430849, 0.369557, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[128] -0.430269 bestSpeed 1.81481e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775204, 0.809519, 0.767362, 0.430848, 0.369558, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[129] -0.430269 bestSpeed 1.99629e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775205, 0.809519, 0.767362, 0.430850, 0.369558, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[130] -0.430269 bestSpeed 2.19592e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775205, 0.809519, 0.767363, 0.430847, 0.369558, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[131] -0.430269 bestSpeed 2.41552e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775205, 0.809519, 0.767363, 0.430850, 0.369559, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[132] -0.430269 bestSpeed 2.65707e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775206, 0.809519, 0.767363, 0.430847, 0.369559, 0.395100), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[133] -0.430269 bestSpeed 2.04594e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775206, 0.809519, 0.767363, 0.430849, 0.369559, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[134] -0.430269 bestSpeed 1.57538e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775206, 0.809519, 0.767364, 0.430848, 0.369560, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[135] -0.430269 bestSpeed 1.73291e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775207, 0.809519, 0.767364, 0.430849, 0.369560, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[136] -0.430269 bestSpeed 1.9062e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775207, 0.809519, 0.767364, 0.430848, 0.369560, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[137] -0.430269 bestSpeed 2.09682e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775207, 0.809519, 0.767365, 0.430850, 0.369561, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[138] -0.430269 bestSpeed 1.61455e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775208, 0.809519, 0.767365, 0.430848, 0.369561, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[139] -0.430269 bestSpeed 1.24321e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775208, 0.809519, 0.767365, 0.430849, 0.369561, 0.395099), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[140] -0.430269 bestSpeed 1.36753e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775208, 0.809519, 0.767365, 0.430848, 0.369562, 0.395098), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[141] -0.430269 bestSpeed 1.50428e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775209, 0.809519, 0.767366, 0.430849, 0.369562, 0.395098), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[142] -0.430269 bestSpeed 1.65471e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775209, 0.809519, 0.767366, 0.430848, 0.369562, 0.395098), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[143] -0.430269 bestSpeed 1.82018e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775209, 0.809519, 0.767366, 0.430849, 0.369562, 0.395098), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[144] -0.430269 bestSpeed 2.0022e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775209, 0.809519, 0.767366, 0.430848, 0.369563, 0.395098), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[145] -0.430269 bestSpeed 1.54169e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775210, 0.809519, 0.767367, 0.430849, 0.369563, 0.395098), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[146] -0.430269 bestSpeed 1.1871e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775210, 0.809519, 0.767367, 0.430848, 0.369563, 0.395098), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[147] -0.430269 bestSpeed 1.30581e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775210, 0.809519, 0.767367, 0.430849, 0.369563, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[148] -0.430269 bestSpeed 1.43639e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775210, 0.809519, 0.767367, 0.430848, 0.369564, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[149] -0.430269 bestSpeed 1.58003e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775211, 0.809519, 0.767368, 0.430849, 0.369564, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[150] -0.430269 bestSpeed 1.73804e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775211, 0.809519, 0.767368, 0.430848, 0.369564, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[151] -0.430269 bestSpeed 1.91184e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775211, 0.809519, 0.767368, 0.430850, 0.369564, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[152] -0.430269 bestSpeed 1.47212e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775211, 0.809519, 0.767368, 0.430848, 0.369565, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[153] -0.430269 bestSpeed 1.13353e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775211, 0.809519, 0.767368, 0.430849, 0.369565, 0.395097), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[154] -0.430269 bestSpeed 1.24688e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775212, 0.809519, 0.767369, 0.430848, 0.369565, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[155] -0.430269 bestSpeed 1.37157e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775212, 0.809519, 0.767369, 0.430849, 0.369565, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[156] -0.430269 bestSpeed 1.50873e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775212, 0.809519, 0.767369, 0.430848, 0.369565, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[157] -0.430269 bestSpeed 1.16172e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775212, 0.809519, 0.767369, 0.430849, 0.369566, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[158] -0.430269 bestSpeed 8.94526e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775212, 0.809519, 0.767370, 0.430848, 0.369566, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[159] -0.430269 bestSpeed 9.83978e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775213, 0.809519, 0.767370, 0.430849, 0.369566, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[160] -0.430269 bestSpeed 1.08238e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775213, 0.809519, 0.767370, 0.430848, 0.369566, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[161] -0.430269 bestSpeed 1.19061e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775213, 0.809519, 0.767370, 0.430849, 0.369566, 0.395096), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[162] -0.430269 bestSpeed 1.30968e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775213, 0.809519, 0.767370, 0.430848, 0.369567, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[163] -0.430269 bestSpeed 1.44064e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775213, 0.809519, 0.767371, 0.430849, 0.369567, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[164] -0.430269 bestSpeed 1.10929e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775213, 0.809519, 0.767371, 0.430848, 0.369567, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[165] -0.430269 bestSpeed 8.54157e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775213, 0.809519, 0.767371, 0.430849, 0.369567, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[166] -0.430269 bestSpeed 9.39573e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775214, 0.809519, 0.767371, 0.430848, 0.369567, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[167] -0.430269 bestSpeed 1.03353e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775214, 0.809519, 0.767371, 0.430849, 0.369567, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[168] -0.430269 bestSpeed 1.13688e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775214, 0.809519, 0.767371, 0.430848, 0.369567, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[169] -0.430269 bestSpeed 8.754e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775214, 0.809519, 0.767372, 0.430849, 0.369568, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[170] -0.430269 bestSpeed 6.74058e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775214, 0.809519, 0.767372, 0.430848, 0.369568, 0.395095), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[171] -0.430269 bestSpeed 7.41464e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775214, 0.809519, 0.767372, 0.430849, 0.369568, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[172] -0.430269 bestSpeed 8.1561e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775214, 0.809519, 0.767372, 0.430848, 0.369568, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[173] -0.430269 bestSpeed 8.97171e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767372, 0.430849, 0.369568, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[174] -0.430269 bestSpeed 9.86888e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767372, 0.430848, 0.369568, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[175] -0.430269 bestSpeed 1.08558e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767373, 0.430849, 0.369568, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[176] -0.430269 bestSpeed 8.35894e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767373, 0.430848, 0.369569, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[177] -0.430269 bestSpeed 6.43639e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767373, 0.430849, 0.369569, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[178] -0.430269 bestSpeed 7.08002e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767373, 0.430848, 0.369569, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[179] -0.430269 bestSpeed 7.78803e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767373, 0.430849, 0.369569, 0.395094), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[180] -0.430269 bestSpeed 8.56683e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767373, 0.430848, 0.369569, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[181] -0.430269 bestSpeed 9.42351e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775215, 0.809519, 0.767374, 0.430849, 0.369569, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[182] -0.430269 bestSpeed 1.03659e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767374, 0.430848, 0.369569, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[183] -0.430269 bestSpeed 7.98172e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767374, 0.430849, 0.369569, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[184] -0.430269 bestSpeed 6.14592e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767374, 0.430848, 0.369570, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[185] -0.430269 bestSpeed 6.76051e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767374, 0.430849, 0.369570, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[186] -0.430269 bestSpeed 7.43656e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767374, 0.430848, 0.369570, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[187] -0.430269 bestSpeed 8.18022e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767374, 0.430849, 0.369570, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[188] -0.430269 bestSpeed 6.29877e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767374, 0.430848, 0.369570, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[189] -0.430269 bestSpeed 4.85005e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767375, 0.430849, 0.369570, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[190] -0.430269 bestSpeed 5.33506e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767375, 0.430848, 0.369570, 0.395093), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[191] -0.430269 bestSpeed 5.86856e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767375, 0.430849, 0.369570, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[192] -0.430269 bestSpeed 6.45542e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775216, 0.809519, 0.767375, 0.430848, 0.369570, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[193] -0.430269 bestSpeed 7.10096e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767375, 0.430849, 0.369570, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[194] -0.430269 bestSpeed 7.81106e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767375, 0.430848, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[195] -0.430269 bestSpeed 6.01451e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767375, 0.430849, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[196] -0.430269 bestSpeed 4.63118e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767375, 0.430848, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[197] -0.430269 bestSpeed 5.09429e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767375, 0.430849, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[198] -0.430269 bestSpeed 5.60372e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430848, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[199] -0.430269 bestSpeed 6.1641e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430849, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[200] -0.430269 bestSpeed 6.78051e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430848, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[201] -0.430269 bestSpeed 7.45856e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430849, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[202] -0.430269 bestSpeed 5.74309e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430848, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[203] -0.430269 bestSpeed 4.42218e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430849, 0.369571, 0.395092), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[204] -0.430269 bestSpeed 4.8644e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430848, 0.369571, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[205] -0.430269 bestSpeed 5.35084e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430849, 0.369571, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[206] -0.430269 bestSpeed 5.88592e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775217, 0.809519, 0.767376, 0.430848, 0.369571, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[207] -0.430269 bestSpeed 4.53216e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767376, 0.430849, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[208] -0.430269 bestSpeed 3.48976e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430848, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[209] -0.430269 bestSpeed 3.83874e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430849, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[210] -0.430269 bestSpeed 4.22261e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430848, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[211] -0.430269 bestSpeed 4.64487e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430849, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[212] -0.430269 bestSpeed 5.10936e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430848, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[213] -0.430269 bestSpeed 5.6203e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430849, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[214] -0.430269 bestSpeed 4.32763e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430848, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[215] -0.430269 bestSpeed 3.33227e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430849, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[216] -0.430269 bestSpeed 3.6655e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430848, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[217] -0.430269 bestSpeed 4.03205e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430849, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[218] -0.430269 bestSpeed 4.43526e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430848, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[219] -0.430269 bestSpeed 4.87878e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767377, 0.430849, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[220] -0.430269 bestSpeed 5.36666e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430848, 0.369572, 0.395091), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[221] -0.430269 bestSpeed 4.13233e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430849, 0.369572, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[222] -0.430269 bestSpeed 3.18189e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430848, 0.369572, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[223] -0.430269 bestSpeed 3.50008e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[224] -0.430269 bestSpeed 3.85009e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[225] -0.430269 bestSpeed 4.2351e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[226] -0.430269 bestSpeed 3.26103e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[227] -0.430269 bestSpeed 2.51099e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[228] -0.430269 bestSpeed 2.76209e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775218, 0.809519, 0.767378, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[229] -0.430269 bestSpeed 3.0383e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767378, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[230] -0.430269 bestSpeed 3.34213e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767378, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[231] -0.430269 bestSpeed 3.67634e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767378, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[232] -0.430269 bestSpeed 4.04397e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767378, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[233] -0.430269 bestSpeed 3.11386e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767378, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[234] -0.430269 bestSpeed 2.39767e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767378, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[235] -0.430269 bestSpeed 2.63744e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[236] -0.430269 bestSpeed 2.90118e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[237] -0.430269 bestSpeed 3.1913e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[238] -0.430269 bestSpeed 2.4573e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[239] -0.430269 bestSpeed 1.89212e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[240] -0.430269 bestSpeed 2.08134e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[241] -0.430269 bestSpeed 2.28947e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[242] -0.430269 bestSpeed 2.51842e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[243] -0.430269 bestSpeed 2.77026e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369573, 0.395090), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[244] -0.430269 bestSpeed 3.04728e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369573, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[245] -0.430269 bestSpeed 3.35201e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369573, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[246] -0.430269 bestSpeed 2.58105e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369573, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[247] -0.430269 bestSpeed 1.98741e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369573, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[248] -0.430269 bestSpeed 2.18615e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[249] -0.430269 bestSpeed 2.40476e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[250] -0.430269 bestSpeed 2.64524e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[251] -0.430269 bestSpeed 2.03683e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[252] -0.430269 bestSpeed 1.56836e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[253] -0.430269 bestSpeed 1.7252e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[254] -0.430269 bestSpeed 1.89772e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[255] -0.430269 bestSpeed 2.08749e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430849, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[256] -0.430269 bestSpeed 2.29624e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767379, 0.430848, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[257] -0.430269 bestSpeed 2.52586e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430849, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[258] -0.430269 bestSpeed 1.94491e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430848, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[259] -0.430269 bestSpeed 1.49758e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430849, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[260] -0.430269 bestSpeed 1.64734e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430848, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[261] -0.430269 bestSpeed 1.81208e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430849, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[262] -0.430269 bestSpeed 1.99328e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430848, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[263] -0.430269 bestSpeed 2.19261e-07
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430849, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] After 264 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 0
+[0] prev_ICM=0.002755, solve subproblem with rho=1.000000
+[0] linesearch[1] -0.430758 bestSpeed 3.21991e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430816, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[2] -0.430759 bestSpeed 2.47933e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430841, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] linesearch[3] -0.430761 bestSpeed 1.90908e-05
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430822, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] After 4 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 6
+[0] prev_ICM=0.000295, solve subproblem with rho=10.000000
+[0] linesearch[1] -0.430813 bestSpeed 2.65173e-06
+[0] bestEst = t( matrix(c(    # 6x1
+ 0.775219, 0.809519, 0.767380, 0.430819, 0.369574, 0.395089), byrow=TRUE, nrow=1, ncol=6))
+[0] After 2 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 6
+[0] ICM=0.000049, Augmented lagrangian coverges!
+[0] MxComputeGradientDescent: final fit is -0.430819
+est 6: c(0.77522, 0.80952, 0.76738, 0.43082, 0.36957, 0.39509)
+[0] MxComputeGradientDescent: engine SD (ID 3) gradient=central tol=6.3e-12
+[0] Welcome to SD, constrained=1 ICM_tol=0.000100
+[0] prev_ICM=inf, solve subproblem with rho=0.000100
+[0] After 1 iterations, cannot find better estimation along the gradient direction
+[0] Status code : 6
+[0] ICM=0.000000, Augmented lagrangian coverges!
+[0] MxComputeGradientDescent: final fit is 0.352538
+est 6: c(0.80295, 0.79923, 0.76081, 0.35254, 0.38612, 0.40513)
+> omxCheckCloseEnough(nrow(tmp$output$confidenceIntervals), 1)

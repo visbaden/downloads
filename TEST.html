@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    
+    <meta name="Generator" content="iWeb 3.0.4" />
+    <meta name="iWeb-Build" content="local-build-20110725" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+    <meta name="viewport" content="width=700" />
+    <title>Full-Duplex Wireless Design</title>
+    <link rel="stylesheet" type="text/css" media="screen,print" href="index_files/index.css" />
+    <!--[if lt IE 8]><link rel='stylesheet' type='text/css' media='screen,print' href='index_files/indexIE.css'/><![endif]-->
+    <!--[if gte IE 8]><link rel='stylesheet' type='text/css' media='screen,print' href='Media/IE8.css'/><![endif]-->
+    <script type="text/javascript" src="Scripts/iWebSite.js"></script>
+    <script type="text/javascript" src="index_files/index.js"></script>
+  </head>
+  <body style="background: rgb(0, 0, 0); margin: 0pt; " onload="onPageLoad();">
+    <div style="text-align: center; ">
+      <div style="margin-bottom: 0px; margin-left: auto; margin-right: auto; margin-top: 0px; overflow: hidden; position: relative; word-wrap: break-word;  background: rgb(0, 0, 0); text-align: left; width: 700px; " id="body_content">
+        <div style="float: left; margin-left: 0px; position: relative; width: 700px; z-index: 0; " id="nav_layer">
+          <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
+          <div style="clear: both; height: 0px; line-height: 0px; " class="spacer"> </div>
+        </div>
+        <div style="height: 73px; margin-left: 0px; position: relative; width: 700px; z-index: 10; " id="header_layer">
+          <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
+          <div id="id1" style="height: 50px; left: 30px; position: absolute; top: 23px; width: 641px; z-index: 1; " class="style_SkipStroke shape-with-text">
+            <div class="text-content style_External_641_50" style="padding: 0px; ">
+              <div class="style">
+                <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style">Full-Duplex Wireless Design</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="margin-left: 0px; position: relative; width: 700px; z-index: 5; " id="body_layer">
+          <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
+          <div style="height: 1px; line-height: 1px; " class="tinyText"> </div>
+          <div style="margin-left: 30px; margin-top: -1px; position: relative; width: 639px; z-index: 1; " class="style_SkipStroke_3 shape-with-text flowDefining">
+            <div class="text-content style_External_639_2888" style="padding: 0px; ">
+              <div class="style">
+                <p style="padding-top: 0pt; " class="paragraph_style_1"><br /></p>
+                <p class="paragraph_style_1"><a class="class1" title="http://sing.stanford.edu/punch98" href="http://sing.stanford.edu/punch98">Jung Il Choi</a>, <a class="class2" title="http://sing.stanford.edu/mayank" href="http://sing.stanford.edu/mayank">Mayank Jain</a>, Taemin Kim, Dinesh Bharadia,<br /></p>
+                <p class="paragraph_style_1"><a class="class3" title="http://sing.stanford.edu/srikank" href="http://sing.stanford.edu/srikank">Kannan Srinivasan</a>, <a class="class4" title="http://csl.stanford.edu/~pal" href="http://csl.stanford.edu/~pal">Philip Levis</a>, <a class="class5" title="http://www.stanford.edu/~skatti" href="http://www.stanford.edu/~skatti">Sachin Katti</a><br /></p>
+                <p class="paragraph_style_2"><br /></p>
+                <div class="paragraph paragraph_style_3"><div style="height: 198px; width: 265px;  clear: left; float: left; height: 198px; margin: 12px 12px 12px 0px; position: relative; width: 265px; " class="tinyText style_SkipStroke_1 inline-block"><img src="index_files/warp_balun.jpg" alt="" style="border: none; height: 199px; width: 265px; " /><span class="style_1"> <br /></span></div>
+                <p class="paragraph_style_2">Can wireless nodes transmit and receive at the same time and on the same channel? Much of wireless research takes half-duplex operation for granted, thus using time or frequency division for bi-directional communication. <br /></p>
+                <p class="paragraph_style_2"><br /></p>
+                <p class="paragraph_style_2">We’ve successfully designed a single channel full-duplex wireless transceiver. The design uses a combination of RF and baseband techniques to achieve full-duplexing with minimal effect on link reliability. We’ve introduced <span class="style_2">Signal Inversion Cancellation</span>, a technique for self-interference cancellation using an RF signal inversion circuit, combined with passive attenuation and delay.<br /></p>
+                <p class="paragraph_style_2"><br /></p>
+                <p class="paragraph_style_2">Signal inversion uses a simple design based on a balanced/unbalanced (Balun) transformer. This new design, unlike prior work, supports wideband and high power systems. In theory, this new design has no limitation on bandwidth or power. In practice, we find that the signal inversion technique alone can cancel at least 45dB across a 40MHz bandwidth. Further, com- bining signal inversion cancellation with cancellation in the digital domain can reduce self-interference by up to 73dB for a 10MHz OFDM signal.<br /></p>
+                <p class="paragraph_style_2"><br /></p>
+                <p class="paragraph_style_2">We’ve also designed a full duplex medium access control (MAC) design and evaluated it using a testbed of 5 prototype full duplex nodes. Full duplex reduces packet losses due to hidden terminals by up to 88%. Full duplex also mitigates unfair channel allocation in AP-based networks, increasing fairness from 0.85 to 0.98 while improving downlink throughput by 110% and uplink throughput by 15%. These experimental results show that a re-design of the wireless network stack to exploit full duplex capability can result in significant improvements in network performance.<br /></p>
+                <p class="paragraph_style_2"><br /></p>
+                <p class="paragraph_style_2">Read about our prototype in our <a onclick="window.open(this.href); return false;" title="http://sing.stanford.edu/pubs/mobicom11-duplex.pdf" href="http://sing.stanford.edu/pubs/mobicom11-duplex.pdf" onkeypress="window.open(this.href); return false;" class="class6">Mobicom 2011 paper</a>. This design is an improvement on our original full-duplex design based on antenna cancellation presented in our <a onclick="window.open(this.href); return false;" title="http://sing.stanford.edu/pubs/mobicom10-duplex.pdf" href="http://sing.stanford.edu/pubs/mobicom10-duplex.pdf" onkeypress="window.open(this.href); return false;" class="class7">Mobicom 2010 paper</a>.<br /></p>
+                <p class="paragraph_style_2"><br /></p>
+                <p class="paragraph_style_5">The Challenge in Achieving Full-Duplex<br /></p>
+                <p class="paragraph_style_6"><br /></p>
+                <p class="paragraph_style_2">The main challenge in achieving full-duplex is canceling the strong interference at the receive interface from the transmit interface of a node. Digital cancellation techniques fail in trying to cancel this self-interference as the strength of the interference saturates the analog-to-digital converters.<br /></p>
+                <p class="paragraph_style_2"><br /></p>
+                <p class="paragraph_style_5">Adaptive Signal Inversion Cancellation<br /></p>
+                <p class="paragraph_style_6"><br /></p>
+                <p class="paragraph_style_2">The design is based on a simple observation: any radio that inverts a signal through adjusting phase will always encounter a bandwidth constraint that bounds its maximum cancellation. To cancel beyond this bound, a radio needs to obtain the perfect inverse of a signal, i.e., a signal which is the perfect negative of the transmitted signal at all instants. Combining this inverse with the transmitted signal can in theory completely cancel self-interference.<br /></p>
+                <p class="paragraph_style_7"><br /></p>
+                <p class="paragraph_style_2">All a radio needs is to invert a signal without adjusting its phase. We use a balanced-to-unbalanced converter (balun) to obtain the inverse of a self-interference signal and use the inverted signal to cancel the interference. The transmit antenna of a node transmits the positive signal from the balun. To cancel self-interference, the radio combines the negative signal from the balun with its received signal after adjusting the delay and attenuation of the negative signal to match the self-interference.<br /></p>
+                <p class="paragraph_style_2"><br /></p>
+                <div class="paragraph paragraph_style_2"><div style="height: 213px; width: 631px;  height: 213px; position: relative; width: 631px; " class="tinyText style_SkipStroke_2 inline-block"><img src="index_files/balun_cancel.jpg" alt="" style="border: none; height: 213px; width: 631px; " /></div><br /></div>
+                <p class="paragraph_style_5"><br /></p>
+                <p class="paragraph_style_2">The design should adapt to changes in the wireless environment. The basic approach is to estimate the attenuation and delay of the self-interference signal and match the inverse signal appropriately. The adaptation algorithm would adjusts the attenuation and delay such that the residual energy (RSSI) after balun cancellation is minimized. The adaptation algorithm uses gradient descent with RSSI as the objective function to converge to the optimal operating point quickly.<br /></p>
+                <p class="paragraph_style_5"><br /></p>
+                <p class="paragraph_style_5">Adaptive Digital Cancellation for OFDM Signaling<br /></p>
+                <p class="paragraph_style_2"><br /></p>
+                <p class="paragraph_style_2">Our adaptive Digital Cancellation mechanism works with the adaptive signal inversion cancellation scheme to give a combined cancellation of up to 73dB. Adaptive Digital Cancellation involves two steps: <br /></p>
+                <ol>
+                  <li style="line-height: 20px; padding-left: 18px; text-indent: -18px; " class="full-width" value="1">
+                    <p style="text-indent: -18px; " class="paragraph_style_8"><span style="font-size: 15px; " class="Bullet">1)</span><span style="width: 4px; " class="inline-block"></span>Self-interference channel estimation: All OFDM receivers have the capability to estimate a channel in frequency domain. We re-use this capability to estimate the self-interference channel in frequency domain and convert this estimate to time domain.<br /></p>
+                  </li>
+                  <li style="line-height: 20px; padding-left: 18px; text-indent: -18px; " class="full-width" value="2">
+                    <p style="text-indent: -18px; " class="paragraph_style_8"><span style="font-size: 15px; " class="Bullet">2)</span><span style="width: 4px; " class="inline-block"></span>Real-time digital cancellation: One we have a good time domain estimate of the self-interference channel, this estimate is used to create a channel model using a digital filter. All digital transmit samples are then passed through this channel model to create a real-time digital cancellation signal which is subtracted from the received samples to remove self-interference.<br /></p>
+                  </li>
+                </ol>
+                <p class="paragraph_style_2"><br /></p>
+                <p class="paragraph_style_5">Implications of Full-Duplex<br /></p>
+                <p class="paragraph_style_6"><br /></p>
+                <p class="paragraph_style_2">The real gains with full-duplex wireless design lie beyond the physical layer. It allows for a fundamental rethinking of the ways wireless networks are designed. Full-duplex offers elegant solutions to many wireless problems, such as hidden terminals, high end-to-end latency, fairness and congestion. It alternatively allows for realizing a real-time in-band control channel, which can help optimize the performance of many existing schemes.<br /></p>
+                <p class="paragraph_style_2"><br /></p>
+                <p class="paragraph_style_5">Real-time Full-duplex MAC<br /></p>
+                <p class="paragraph_style_6"><br /></p>
+                <p class="paragraph_style_2">We’ve implemented a real-time full-duplex MAC for an access point based network. The MAC design is based on the <a onclick="window.open(this.href); return false;" title="http://research.microsoft.com/apps/pubs/default.aspx?id=148161" href="http://research.microsoft.com/apps/pubs/default.aspx?id=148161" onkeypress="window.open(this.href); return false;" class="class8">Contraflow</a> generalized full-duplex MAC from Microsoft Research. The design is implemented and tested using the <a onclick="window.open(this.href); return false;" title="http://warp.rice.edu/" href="http://warp.rice.edu/" onkeypress="window.open(this.href); return false;" class="class9">WARP</a> software radio platform from Rice University. Using this MAC, we’ve shown in experiments with real nodes that full-duplex can reduce hidden terminal losses by up to 88% and significantly improve fairness in WLAN based networks.<br /></p>
+                <p class="paragraph_style_2"><br /></p>
+                <p class="paragraph_style_5">Next Steps<br /></p>
+                <p class="paragraph_style_6"><br /></p>
+                <p class="paragraph_style_2">We are working to better understand both engineering and fundamental limitations on self-interference cancellation to improve the design of full-duplex radios. Another area of exploration is the possibility of generalizing the full-duplex design and extending it to multiple input, multiple output (MIMO) systems. <br /></p>
+                <p class="paragraph_style_2"><br /></p>
+                <p class="paragraph_style_2">We want to explore how full-duplex could lead to a rethinking of wireless primitives. We believe that full-duplex wireless would require redesigning the protocol stack to fully incorporate the gains from full-duplexing.<br /></p>
+                <p class="paragraph_style_2"><br /></p>
+                <p class="paragraph_style_5">Publications and Demos<br /></p>
+                <p class="paragraph_style_6"><br /></p>
+                <ol>
+                  <li style="line-height: 20px; padding-left: 33px; text-indent: -33px; " class="full-width" value="1">
+                    <p style="text-indent: -33px; " class="paragraph_style_9"><span style="font-size: 15px; " class="Bullet">1.</span><span style="width: 20px; " class="inline-block"></span>Mayank Jain, Jung Il Choi, Taemin Kim, Dinesh Bharadia, Kannan Srinivasan, Siddharth Seth, Philip Levis, Sachin Katti and Prasun Sinha. [<a onclick="window.open(this.href); return false;" title="http://sing.stanford.edu/pubs/mobicom11-duplex.pdf" href="http://sing.stanford.edu/pubs/mobicom11-duplex.pdf" onkeypress="window.open(this.href); return false;" class="class10">pdf</a>]<br /></p>
+                  </li>
+                </ol>
+                <p class="paragraph_style_10">        Practical, Real-time, Full Duplex Wireless<br /></p>
+                <p class="paragraph_style_2">        <span class="style_3">To Appear In the Proceedings of the 17th Annual International Conference on Mobile   <br /></span></p>
+                <p class="paragraph_style_2"><span class="style_3">        Computing and Networking (Mobicom 2011).</span><br /></p>
+                <p class="paragraph_style_11"><br /></p>
+                <ol>
+                  <li style="line-height: 20px; padding-left: 33px; text-indent: -33px; " class="full-width" value="2">
+                    <p style="text-indent: -33px; " class="paragraph_style_9"><span style="font-size: 15px; " class="Bullet">2.</span><span style="width: 20px; " class="inline-block"></span>Jung Il Choi, Mayank Jain, Kannan Srinivasan, Philip Levis and Sachin Katti. [<a onclick="window.open(this.href); return false;" title="http://sing.stanford.edu/pubs/mobicom10-duplex.pdf" href="http://sing.stanford.edu/pubs/mobicom10-duplex.pdf" onkeypress="window.open(this.href); return false;" class="class11">pdf</a>]<br /></p>
+                  </li>
+                </ol>
+                <p class="paragraph_style_10">        Achieving Single Channel, Full Duplex Wireless Communication<br /></p>
+                <p class="paragraph_style_12">        In the Proceedings of the 16th Annual International Conference on Mobile Computing and<br /></p>
+                <p class="paragraph_style_12">        Networking (Mobicom 2010).<br /></p>
+                <p class="paragraph_style_11"><br /></p>
+                <ol>
+                  <li style="line-height: 20px; padding-left: 33px; text-indent: -33px; " class="full-width" value="3">
+                    <p style="text-indent: -33px; " class="paragraph_style_9"><span style="font-size: 15px; " class="Bullet">3.</span><span style="width: 20px; " class="inline-block"></span>Jung Il Choi, Mayank Jain, Kannan Srinivasan, Richard Swensson, Philip Levis and Sachin Katti.<br /></p>
+                  </li>
+                </ol>
+                <p class="paragraph_style_10">        A Working Single Channel, Full Duplex Wireless System<br /></p>
+                <p class="paragraph_style_2">        <span class="style_3">Demonstrated at the 16th Annual International Conference on Mobile Computing<br /></span></p>
+                <p class="paragraph_style_2"><span class="style_3">        and Networking (Mobicom 2010).</span><br /></p>
+                <p style="padding-bottom: 0pt; " class="paragraph_style_2">        <span class="style_2">Best Demo Award</span></p>
+                <p class="paragraph_style_2"><br /></p>
+                <p class="paragraph_style_5">Funding Support<br /></p>
+                <p class="paragraph_style_6"><br /></p>
+                <p class="paragraph_style_2">This research has been supported with generous grants from the National Science Foundation and the King Abdullah University of Science and Technology and a Samsung graduate fellowship.
+                <p class="paragraph_style_6"><br /></p>
+               </div>
+              <div style="clear: both; height: 0px; line-height: 0px; " class="tinyText"> </div>
+            </div>
+          </div>
+          <div style="height: 0px; line-height: 0px; " class="spacer"> </div>
+        </div>
+        <div style="height: 150px; margin-left: 0px; position: relative; width: 700px; z-index: 15; " id="footer_layer">
+          <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+

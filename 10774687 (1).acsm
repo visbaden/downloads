@@ -1,0 +1,37 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:0958c4fb-c6ec-47d1-9b75-7d8b06f7553f</distributor>
+  <operatorURL>http://acs.ebrary.com/fulfillment</operatorURL>
+  <transaction>28152539-0000000002</transaction>
+  <expiration>2015-06-23T07:36:15-07:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000010774687</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">In All Likelihood : Statistical Modelling and Inference Using Likelihood</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pawitan, Yudi(Author)</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">OUP Oxford</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">10774687</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000010774687</resource>
+      <permissions>
+        <display>
+          <duration>1209600</duration>
+        </display>
+        <excerpt>
+          <duration>1209600</duration>
+          <count initial="54"/>
+        </excerpt>
+        <print>
+          <duration>1209600</duration>
+          <count initial="54"/>
+        </print>
+        <play>
+          <duration>1209600</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>v4jsO+VWvW0EVlrktxxHbp4lNww=</hmac>
+</fulfillmentToken>
